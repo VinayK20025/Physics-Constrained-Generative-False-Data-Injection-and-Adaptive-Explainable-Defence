@@ -1,0 +1,60 @@
+{
+  "config": {
+    "project_root": "d:\\Research\\GAN Based Attack\\FDI_Attack\\Update",
+    "inp_candidates": [
+      "Net1.inp",
+      "Net2.inp",
+      "Net3.inp",
+      "temp.inp"
+    ],
+    "default_inp": "Net1.inp",
+    "simulation_days": 7,
+    "timestep_seconds": 300,
+    "demand_model": "PDD",
+    "pressure_min_psi": 5.0,
+    "pressure_max_psi": 80.0,
+    "max_velocity_ms": 3.5,
+    "latent_dim": 128,
+    "window_size": 144,
+    "attack_types": [
+      "pump_manipulation",
+      "tank_overflow",
+      "pressure_drop",
+      "chlorine_dilution"
+    ],
+    "random_seeds": [
+      11,
+      22,
+      33,
+      44,
+      55
+    ],
+    "train_ratio": 0.6,
+    "val_ratio": 0.2,
+    "test_ratio": 0.2,
+    "contamination": 0.05,
+    "n_epochs": 60,
+    "n_critic": 5,
+    "lambda_gp": 10.0,
+    "alpha_physics_max": 0.5,
+    "alpha_physics_anneal_epochs": 1000,
+    "lr": 0.0001,
+    "batch_size": 32,
+    "logs_dir": "logs",
+    "figures_dir": "results\\visualizations",
+    "models_dir": "models"
+  },
+  "random_seeds": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "python_version": "3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]",
+  "torch_version": "2.9.1+cpu",
+  "wntr_version": "1.4.0",
+  "inp_hashes": {
+    "temp.inp": "48d864f95f7529743b4f560d0f6255dde73c90b269e54953e0feb52e689a70d4"
+  }
+}
