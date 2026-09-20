@@ -1,0 +1,4139 @@
+  Page 1                                    Sat Sep 19 21:04:25 2026
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Sat Sep 19 21:04:25 2026
+
+   
+  Hydraulic Status:
+  -----------------------------------------------------------------------
+     0:00:00: Balanced after 4 trials
+     0:00:00: Reservoir 9 is emptying
+     0:00:00: Tank 2 is filling at 120.00 ft
+   
+     0:05:00: Balanced after 1 trials
+   
+     0:10:00: Balanced after 1 trials
+   
+     0:15:00: Balanced after 1 trials
+   
+     0:20:00: Balanced after 1 trials
+   
+     0:25:00: Balanced after 1 trials
+   
+     0:30:00: Balanced after 1 trials
+   
+     0:35:00: Balanced after 1 trials
+   
+     0:40:00: Balanced after 1 trials
+   
+     0:45:00: Balanced after 1 trials
+   
+     0:50:00: Balanced after 1 trials
+   
+     0:55:00: Balanced after 1 trials
+   
+     1:00:00: Balanced after 1 trials
+   
+     1:05:00: Balanced after 1 trials
+   
+     1:10:00: Balanced after 1 trials
+   
+     1:15:00: Balanced after 1 trials
+   
+     1:20:00: Balanced after 1 trials
+   
+     1:25:00: Balanced after 1 trials
+   
+     1:30:00: Balanced after 1 trials
+   
+     1:35:00: Balanced after 1 trials
+   
+     1:40:00: Balanced after 1 trials
+   
+     1:45:00: Balanced after 1 trials
+   
+     1:50:00: Balanced after 1 trials
+   
+     1:55:00: Balanced after 1 trials
+   
+     2:00:00: Balanced after 3 trials
+   
+     2:05:00: Balanced after 1 trials
+   
+     2:10:00: Balanced after 1 trials
+   
+     2:15:00: Balanced after 1 trials
+   
+     2:20:00: Balanced after 1 trials
+   
+     2:25:00: Balanced after 1 trials
+   
+     2:30:00: Balanced after 1 trials
+   
+     2:35:00: Balanced after 1 trials
+   
+     2:40:00: Balanced after 1 trials
+   
+     2:45:00: Balanced after 1 trials
+   
+     2:50:00: Balanced after 1 trials
+   
+     2:55:00: Balanced after 1 trials
+   
+     3:00:00: Balanced after 1 trials
+   
+     3:05:00: Balanced after 1 trials
+   
+     3:10:00: Balanced after 1 trials
+   
+     3:15:00: Balanced after 1 trials
+   
+     3:20:00: Balanced after 1 trials
+   
+     3:25:00: Balanced after 1 trials
+   
+     3:30:00: Balanced after 1 trials
+   
+     3:35:00: Balanced after 1 trials
+   
+     3:40:00: Balanced after 1 trials
+   
+     3:45:00: Balanced after 1 trials
+   
+     3:50:00: Balanced after 1 trials
+   
+     3:55:00: Balanced after 1 trials
+   
+     4:00:00: Balanced after 2 trials
+   
+     4:05:00: Balanced after 1 trials
+   
+     4:10:00: Balanced after 1 trials
+   
+     4:15:00: Balanced after 1 trials
+   
+     4:20:00: Balanced after 1 trials
+   
+     4:25:00: Balanced after 1 trials
+   
+     4:30:00: Balanced after 1 trials
+   
+     4:35:00: Balanced after 1 trials
+   
+     4:40:00: Balanced after 1 trials
+   
+     4:45:00: Balanced after 1 trials
+   
+     4:50:00: Balanced after 1 trials
+   
+     4:55:00: Balanced after 1 trials
+   
+     5:00:00: Balanced after 1 trials
+   
+     5:05:00: Balanced after 1 trials
+   
+     5:10:00: Balanced after 1 trials
+   
+     5:15:00: Balanced after 1 trials
+   
+     5:20:00: Balanced after 1 trials
+   
+     5:25:00: Balanced after 1 trials
+   
+     5:30:00: Balanced after 1 trials
+   
+     5:35:00: Balanced after 1 trials
+   
+     5:40:00: Balanced after 1 trials
+   
+     5:45:00: Balanced after 1 trials
+   
+     5:50:00: Balanced after 1 trials
+   
+     5:55:00: Balanced after 1 trials
+   
+     6:00:00: Balanced after 2 trials
+   
+     6:05:00: Balanced after 1 trials
+   
+     6:10:00: Balanced after 1 trials
+   
+     6:15:00: Balanced after 1 trials
+   
+     6:20:00: Balanced after 1 trials
+   
+     6:25:00: Balanced after 1 trials
+   
+     6:30:00: Balanced after 1 trials
+   
+     6:35:00: Balanced after 1 trials
+   
+     6:40:00: Balanced after 1 trials
+   
+     6:45:00: Balanced after 1 trials
+   
+     6:50:00: Balanced after 1 trials
+   
+     6:55:00: Balanced after 1 trials
+   
+     7:00:00: Balanced after 1 trials
+   
+     7:05:00: Balanced after 1 trials
+   
+     7:10:00: Balanced after 1 trials
+   
+     7:15:00: Balanced after 1 trials
+   
+     7:20:00: Balanced after 1 trials
+   
+     7:25:00: Balanced after 1 trials
+   
+     7:30:00: Balanced after 1 trials
+   
+     7:35:00: Balanced after 1 trials
+   
+     7:40:00: Balanced after 1 trials
+   
+     7:45:00: Balanced after 1 trials
+   
+     7:50:00: Balanced after 1 trials
+   
+     7:55:00: Balanced after 1 trials
+   
+     8:00:00: Balanced after 2 trials
+   
+     8:05:00: Balanced after 1 trials
+   
+     8:10:00: Balanced after 1 trials
+   
+     8:15:00: Balanced after 1 trials
+   
+     8:20:00: Balanced after 1 trials
+   
+     8:25:00: Balanced after 1 trials
+   
+     8:30:00: Balanced after 1 trials
+   
+     8:35:00: Balanced after 1 trials
+   
+     8:40:00: Balanced after 1 trials
+   
+     8:45:00: Balanced after 1 trials
+   
+     8:50:00: Balanced after 1 trials
+   
+     8:55:00: Balanced after 1 trials
+   
+     9:00:00: Balanced after 1 trials
+   
+     9:05:00: Balanced after 1 trials
+   
+     9:10:00: Balanced after 1 trials
+   
+     9:15:00: Balanced after 1 trials
+   
+     9:20:00: Balanced after 1 trials
+   
+     9:25:00: Balanced after 1 trials
+   
+     9:30:00: Balanced after 1 trials
+   
+     9:35:00: Balanced after 1 trials
+   
+     9:40:00: Balanced after 1 trials
+   
+     9:45:00: Balanced after 1 trials
+   
+     9:50:00: Balanced after 1 trials
+   
+     9:55:00: Balanced after 1 trials
+   
+    10:00:00: Balanced after 2 trials
+   
+    10:05:00: Balanced after 1 trials
+   
+    10:10:00: Balanced after 1 trials
+   
+    10:15:00: Balanced after 1 trials
+   
+    10:20:00: Balanced after 1 trials
+   
+    10:25:00: Balanced after 1 trials
+   
+    10:30:00: Balanced after 1 trials
+   
+    10:35:00: Balanced after 1 trials
+   
+    10:40:00: Balanced after 1 trials
+   
+    10:45:00: Balanced after 1 trials
+   
+    10:50:00: Balanced after 1 trials
+   
+    10:55:00: Balanced after 1 trials
+   
+    11:00:00: Balanced after 1 trials
+   
+    11:05:00: Balanced after 1 trials
+   
+    11:10:00: Balanced after 1 trials
+   
+    11:15:00: Balanced after 1 trials
+   
+    11:20:00: Balanced after 1 trials
+   
+    11:25:00: Balanced after 1 trials
+   
+    11:30:00: Balanced after 1 trials
+   
+    11:35:00: Balanced after 1 trials
+   
+    11:40:00: Balanced after 1 trials
+   
+    11:45:00: Balanced after 1 trials
+   
+    11:50:00: Balanced after 1 trials
+   
+    11:55:00: Balanced after 1 trials
+   
+    12:00:00: Balanced after 2 trials
+   
+    12:05:00: Balanced after 1 trials
+   
+    12:10:00: Balanced after 1 trials
+   
+    12:15:00: Balanced after 1 trials
+   
+    12:20:00: Balanced after 1 trials
+   
+    12:25:00: Balanced after 1 trials
+   
+    12:30:00: Balanced after 1 trials
+   
+    12:35:00: Balanced after 1 trials
+   
+    12:36:39: Pump 9 changed by Tank 2 control
+    12:36:39: Balanced after 4 trials
+    12:36:39: Reservoir 9 is closed
+    12:36:39: Tank 2 is emptying at 140.00 ft
+    12:36:39: Pump 9 changed from open to closed
+   
+    12:40:00: Balanced after 1 trials
+   
+    12:45:00: Balanced after 1 trials
+   
+    12:50:00: Balanced after 1 trials
+   
+    12:55:00: Balanced after 1 trials
+   
+    13:00:00: Balanced after 1 trials
+   
+    13:05:00: Balanced after 1 trials
+   
+    13:10:00: Balanced after 1 trials
+   
+    13:15:00: Balanced after 1 trials
+   
+    13:20:00: Balanced after 1 trials
+   
+    13:25:00: Balanced after 1 trials
+   
+    13:30:00: Balanced after 1 trials
+   
+    13:35:00: Balanced after 1 trials
+   
+    13:40:00: Balanced after 1 trials
+   
+    13:45:00: Balanced after 1 trials
+   
+    13:50:00: Balanced after 1 trials
+   
+    13:55:00: Balanced after 1 trials
+   
+    14:00:00: Balanced after 2 trials
+   
+    14:05:00: Balanced after 1 trials
+   
+    14:10:00: Balanced after 1 trials
+   
+    14:15:00: Balanced after 1 trials
+   
+    14:20:00: Balanced after 1 trials
+   
+    14:25:00: Balanced after 1 trials
+   
+    14:30:00: Balanced after 1 trials
+   
+    14:35:00: Balanced after 1 trials
+   
+    14:40:00: Balanced after 1 trials
+   
+    14:45:00: Balanced after 1 trials
+   
+    14:50:00: Balanced after 1 trials
+   
+    14:55:00: Balanced after 1 trials
+   
+    15:00:00: Balanced after 1 trials
+   
+    15:05:00: Balanced after 1 trials
+   
+    15:10:00: Balanced after 1 trials
+   
+    15:15:00: Balanced after 1 trials
+   
+    15:20:00: Balanced after 1 trials
+   
+    15:25:00: Balanced after 1 trials
+   
+    15:30:00: Balanced after 1 trials
+   
+    15:35:00: Balanced after 1 trials
+   
+    15:40:00: Balanced after 1 trials
+   
+    15:45:00: Balanced after 1 trials
+   
+    15:50:00: Balanced after 1 trials
+   
+    15:55:00: Balanced after 1 trials
+   
+    16:00:00: Balanced after 2 trials
+   
+    16:05:00: Balanced after 1 trials
+   
+    16:10:00: Balanced after 1 trials
+   
+    16:15:00: Balanced after 1 trials
+   
+    16:20:00: Balanced after 1 trials
+   
+    16:25:00: Balanced after 1 trials
+   
+    16:30:00: Balanced after 1 trials
+   
+    16:35:00: Balanced after 1 trials
+   
+    16:40:00: Balanced after 1 trials
+   
+    16:45:00: Balanced after 1 trials
+   
+    16:50:00: Balanced after 1 trials
+   
+    16:55:00: Balanced after 1 trials
+   
+    17:00:00: Balanced after 1 trials
+   
+    17:05:00: Balanced after 1 trials
+   
+    17:10:00: Balanced after 1 trials
+   
+    17:15:00: Balanced after 1 trials
+   
+    17:20:00: Balanced after 1 trials
+   
+    17:25:00: Balanced after 1 trials
+   
+    17:30:00: Balanced after 1 trials
+   
+    17:35:00: Balanced after 1 trials
+   
+    17:40:00: Balanced after 1 trials
+   
+    17:45:00: Balanced after 1 trials
+   
+    17:50:00: Balanced after 1 trials
+   
+    17:55:00: Balanced after 1 trials
+   
+    18:00:00: Balanced after 2 trials
+   
+    18:05:00: Balanced after 1 trials
+   
+    18:10:00: Balanced after 1 trials
+   
+    18:15:00: Balanced after 1 trials
+   
+    18:20:00: Balanced after 1 trials
+   
+    18:25:00: Balanced after 1 trials
+   
+    18:30:00: Balanced after 1 trials
+   
+    18:35:00: Balanced after 1 trials
+   
+    18:40:00: Balanced after 1 trials
+   
+    18:45:00: Balanced after 1 trials
+   
+    18:50:00: Balanced after 1 trials
+   
+    18:55:00: Balanced after 1 trials
+   
+    19:00:00: Balanced after 1 trials
+   
+    19:05:00: Balanced after 1 trials
+   
+    19:10:00: Balanced after 1 trials
+   
+    19:15:00: Balanced after 1 trials
+   
+    19:20:00: Balanced after 1 trials
+   
+    19:25:00: Balanced after 1 trials
+   
+    19:30:00: Balanced after 1 trials
+   
+    19:35:00: Balanced after 1 trials
+   
+    19:40:00: Balanced after 1 trials
+   
+    19:45:00: Balanced after 1 trials
+   
+    19:50:00: Balanced after 1 trials
+   
+    19:55:00: Balanced after 1 trials
+   
+    20:00:00: Balanced after 2 trials
+   
+    20:05:00: Balanced after 1 trials
+   
+    20:10:00: Balanced after 1 trials
+   
+    20:15:00: Balanced after 1 trials
+   
+    20:20:00: Balanced after 1 trials
+   
+    20:25:00: Balanced after 1 trials
+   
+    20:30:00: Balanced after 1 trials
+   
+    20:35:00: Balanced after 1 trials
+   
+    20:40:00: Balanced after 1 trials
+   
+    20:45:00: Balanced after 1 trials
+   
+    20:50:00: Balanced after 1 trials
+   
+    20:55:00: Balanced after 1 trials
+   
+    21:00:00: Balanced after 1 trials
+   
+    21:05:00: Balanced after 1 trials
+   
+    21:10:00: Balanced after 1 trials
+   
+    21:15:00: Balanced after 1 trials
+   
+    21:20:00: Balanced after 1 trials
+   
+    21:25:00: Balanced after 1 trials
+   
+    21:30:00: Balanced after 1 trials
+   
+    21:35:00: Balanced after 1 trials
+   
+    21:40:00: Balanced after 1 trials
+   
+    21:45:00: Balanced after 1 trials
+   
+    21:50:00: Balanced after 1 trials
+   
+    21:55:00: Balanced after 1 trials
+   
+    22:00:00: Balanced after 2 trials
+   
+    22:05:00: Balanced after 1 trials
+   
+    22:10:00: Balanced after 1 trials
+   
+    22:15:00: Balanced after 1 trials
+   
+    22:20:00: Balanced after 1 trials
+   
+    22:25:00: Balanced after 1 trials
+   
+    22:30:00: Balanced after 1 trials
+   
+    22:35:00: Balanced after 1 trials
+   
+    22:40:00: Balanced after 1 trials
+   
+    22:45:00: Balanced after 1 trials
+   
+    22:46:36: Pump 9 changed by Tank 2 control
+    22:46:36: Balanced after 14 trials
+    22:46:36: Reservoir 9 is emptying
+    22:46:36: Tank 2 is filling at 110.00 ft
+    22:46:36: Pump 9 changed from closed to open
+   
+    22:50:00: Balanced after 1 trials
+   
+    22:55:00: Balanced after 2 trials
+   
+    23:00:00: Balanced after 2 trials
+   
+    23:05:00: Balanced after 2 trials
+   
+    23:10:00: Balanced after 2 trials
+   
+    23:15:00: Balanced after 2 trials
+   
+    23:20:00: Balanced after 2 trials
+   
+    23:25:00: Balanced after 2 trials
+   
+    23:30:00: Balanced after 2 trials
+   
+    23:35:00: Balanced after 2 trials
+   
+    23:40:00: Balanced after 2 trials
+   
+    23:45:00: Balanced after 2 trials
+   
+    23:50:00: Balanced after 2 trials
+   
+    23:55:00: Balanced after 2 trials
+   
+    24:00:00: Balanced after 3 trials
+   
+    24:05:00: Balanced after 1 trials
+   
+    24:10:00: Balanced after 1 trials
+   
+    24:15:00: Balanced after 1 trials
+   
+    24:20:00: Balanced after 1 trials
+   
+    24:25:00: Balanced after 1 trials
+   
+    24:30:00: Balanced after 1 trials
+   
+    24:35:00: Balanced after 1 trials
+   
+    24:40:00: Balanced after 1 trials
+   
+    24:45:00: Balanced after 1 trials
+   
+    24:50:00: Balanced after 1 trials
+   
+    24:55:00: Balanced after 1 trials
+   
+    25:00:00: Balanced after 1 trials
+   
+    25:05:00: Balanced after 1 trials
+   
+    25:10:00: Balanced after 1 trials
+   
+    25:15:00: Balanced after 1 trials
+   
+    25:20:00: Balanced after 1 trials
+   
+    25:25:00: Balanced after 1 trials
+   
+    25:30:00: Balanced after 1 trials
+   
+    25:35:00: Balanced after 1 trials
+   
+    25:40:00: Balanced after 1 trials
+   
+    25:45:00: Balanced after 1 trials
+   
+    25:50:00: Balanced after 1 trials
+   
+    25:55:00: Balanced after 1 trials
+   
+    26:00:00: Balanced after 3 trials
+   
+    26:05:00: Balanced after 1 trials
+   
+    26:10:00: Balanced after 1 trials
+   
+    26:15:00: Balanced after 1 trials
+   
+    26:20:00: Balanced after 1 trials
+   
+    26:25:00: Balanced after 1 trials
+   
+    26:30:00: Balanced after 1 trials
+   
+    26:35:00: Balanced after 1 trials
+   
+    26:40:00: Balanced after 1 trials
+   
+    26:45:00: Balanced after 1 trials
+   
+    26:50:00: Balanced after 1 trials
+   
+    26:55:00: Balanced after 1 trials
+   
+    27:00:00: Balanced after 1 trials
+   
+    27:05:00: Balanced after 1 trials
+   
+    27:10:00: Balanced after 1 trials
+   
+    27:15:00: Balanced after 1 trials
+   
+    27:20:00: Balanced after 1 trials
+   
+    27:25:00: Balanced after 1 trials
+   
+    27:30:00: Balanced after 1 trials
+   
+    27:35:00: Balanced after 1 trials
+   
+    27:40:00: Balanced after 1 trials
+   
+    27:45:00: Balanced after 1 trials
+   
+    27:50:00: Balanced after 1 trials
+   
+    27:55:00: Balanced after 1 trials
+   
+    28:00:00: Balanced after 2 trials
+   
+    28:05:00: Balanced after 1 trials
+   
+    28:10:00: Balanced after 1 trials
+   
+    28:15:00: Balanced after 1 trials
+   
+    28:20:00: Balanced after 1 trials
+   
+    28:25:00: Balanced after 1 trials
+   
+    28:30:00: Balanced after 1 trials
+   
+    28:35:00: Balanced after 1 trials
+   
+    28:40:00: Balanced after 1 trials
+   
+    28:45:00: Balanced after 1 trials
+   
+    28:50:00: Balanced after 1 trials
+   
+    28:55:00: Balanced after 1 trials
+   
+    29:00:00: Balanced after 1 trials
+   
+    29:05:00: Balanced after 1 trials
+   
+    29:10:00: Balanced after 1 trials
+   
+    29:15:00: Balanced after 1 trials
+   
+    29:20:00: Balanced after 1 trials
+   
+    29:25:00: Balanced after 1 trials
+   
+    29:30:00: Balanced after 1 trials
+   
+    29:35:00: Balanced after 1 trials
+   
+    29:40:00: Balanced after 1 trials
+   
+    29:45:00: Balanced after 1 trials
+   
+    29:50:00: Balanced after 1 trials
+   
+    29:55:00: Balanced after 1 trials
+   
+    30:00:00: Balanced after 2 trials
+   
+    30:05:00: Balanced after 1 trials
+   
+    30:10:00: Balanced after 1 trials
+   
+    30:15:00: Balanced after 1 trials
+   
+    30:20:00: Balanced after 1 trials
+   
+    30:25:00: Balanced after 1 trials
+   
+    30:30:00: Balanced after 1 trials
+   
+    30:35:00: Balanced after 1 trials
+   
+    30:40:00: Balanced after 1 trials
+   
+    30:45:00: Balanced after 1 trials
+   
+    30:50:00: Balanced after 1 trials
+   
+    30:55:00: Balanced after 1 trials
+   
+    31:00:00: Balanced after 1 trials
+   
+    31:05:00: Balanced after 1 trials
+   
+    31:10:00: Balanced after 1 trials
+   
+    31:15:00: Balanced after 1 trials
+   
+    31:20:00: Balanced after 1 trials
+   
+    31:25:00: Balanced after 1 trials
+   
+    31:30:00: Balanced after 1 trials
+   
+    31:35:00: Balanced after 1 trials
+   
+    31:40:00: Balanced after 1 trials
+   
+    31:45:00: Balanced after 1 trials
+   
+    31:50:00: Balanced after 1 trials
+   
+    31:55:00: Balanced after 1 trials
+   
+    32:00:00: Balanced after 2 trials
+   
+    32:05:00: Balanced after 1 trials
+   
+    32:10:00: Balanced after 1 trials
+   
+    32:15:00: Balanced after 1 trials
+   
+    32:20:00: Balanced after 1 trials
+   
+    32:25:00: Balanced after 1 trials
+   
+    32:30:00: Balanced after 1 trials
+   
+    32:35:00: Balanced after 1 trials
+   
+    32:40:00: Balanced after 1 trials
+   
+    32:45:00: Balanced after 1 trials
+   
+    32:50:00: Balanced after 1 trials
+   
+    32:55:00: Balanced after 1 trials
+   
+    33:00:00: Balanced after 1 trials
+   
+    33:05:00: Balanced after 1 trials
+   
+    33:10:00: Balanced after 1 trials
+   
+    33:15:00: Balanced after 1 trials
+   
+    33:20:00: Balanced after 1 trials
+   
+    33:25:00: Balanced after 1 trials
+   
+    33:30:00: Balanced after 1 trials
+   
+    33:35:00: Balanced after 1 trials
+   
+    33:40:00: Balanced after 1 trials
+   
+    33:45:00: Balanced after 1 trials
+   
+    33:50:00: Balanced after 1 trials
+   
+    33:55:00: Balanced after 1 trials
+   
+    34:00:00: Balanced after 2 trials
+   
+    34:05:00: Balanced after 1 trials
+   
+    34:10:00: Balanced after 1 trials
+   
+    34:15:00: Balanced after 1 trials
+   
+    34:20:00: Balanced after 1 trials
+   
+    34:25:00: Balanced after 1 trials
+   
+    34:30:00: Balanced after 1 trials
+   
+    34:35:00: Balanced after 1 trials
+   
+    34:40:00: Balanced after 1 trials
+   
+    34:45:00: Balanced after 1 trials
+   
+    34:50:00: Balanced after 1 trials
+   
+    34:55:00: Balanced after 1 trials
+   
+    35:00:00: Balanced after 1 trials
+   
+    35:05:00: Balanced after 1 trials
+   
+    35:10:00: Balanced after 1 trials
+   
+    35:15:00: Balanced after 1 trials
+   
+    35:20:00: Balanced after 1 trials
+   
+    35:25:00: Balanced after 1 trials
+   
+    35:30:00: Balanced after 1 trials
+   
+    35:35:00: Balanced after 1 trials
+   
+    35:40:00: Balanced after 1 trials
+   
+    35:45:00: Balanced after 1 trials
+   
+    35:50:00: Balanced after 1 trials
+   
+    35:55:00: Balanced after 1 trials
+   
+    36:00:00: Balanced after 2 trials
+   
+    36:05:00: Balanced after 1 trials
+   
+    36:10:00: Balanced after 1 trials
+   
+    36:15:00: Balanced after 1 trials
+   
+    36:20:00: Balanced after 1 trials
+   
+    36:25:00: Balanced after 1 trials
+   
+    36:30:00: Balanced after 1 trials
+   
+    36:35:00: Balanced after 1 trials
+   
+    36:40:00: Balanced after 1 trials
+   
+    36:45:00: Balanced after 1 trials
+   
+    36:50:00: Balanced after 1 trials
+   
+    36:55:00: Balanced after 1 trials
+   
+    37:00:00: Balanced after 1 trials
+   
+    37:05:00: Balanced after 1 trials
+   
+    37:10:00: Balanced after 1 trials
+   
+    37:15:00: Balanced after 1 trials
+   
+    37:20:00: Balanced after 1 trials
+   
+    37:25:00: Balanced after 1 trials
+   
+    37:30:00: Balanced after 1 trials
+   
+    37:35:00: Balanced after 1 trials
+   
+    37:40:00: Balanced after 1 trials
+   
+    37:45:00: Balanced after 1 trials
+   
+    37:50:00: Balanced after 1 trials
+   
+    37:55:00: Balanced after 1 trials
+   
+    38:00:00: Balanced after 3 trials
+   
+    38:00:35: Pump 9 changed by Tank 2 control
+    38:00:35: Balanced after 4 trials
+    38:00:35: Reservoir 9 is closed
+    38:00:35: Tank 2 is emptying at 140.00 ft
+    38:00:35: Pump 9 changed from open to closed
+   
+    38:05:00: Balanced after 1 trials
+   
+    38:10:00: Balanced after 1 trials
+   
+    38:15:00: Balanced after 1 trials
+   
+    38:20:00: Balanced after 1 trials
+   
+    38:25:00: Balanced after 1 trials
+   
+    38:30:00: Balanced after 1 trials
+   
+    38:35:00: Balanced after 1 trials
+   
+    38:40:00: Balanced after 1 trials
+   
+    38:45:00: Balanced after 1 trials
+   
+    38:50:00: Balanced after 1 trials
+   
+    38:55:00: Balanced after 1 trials
+   
+    39:00:00: Balanced after 1 trials
+   
+    39:05:00: Balanced after 1 trials
+   
+    39:10:00: Balanced after 1 trials
+   
+    39:15:00: Balanced after 1 trials
+   
+    39:20:00: Balanced after 1 trials
+   
+    39:25:00: Balanced after 1 trials
+   
+    39:30:00: Balanced after 1 trials
+   
+    39:35:00: Balanced after 1 trials
+   
+    39:40:00: Balanced after 1 trials
+   
+    39:45:00: Balanced after 1 trials
+   
+    39:50:00: Balanced after 1 trials
+   
+    39:55:00: Balanced after 1 trials
+   
+    40:00:00: Balanced after 2 trials
+   
+    40:05:00: Balanced after 1 trials
+   
+    40:10:00: Balanced after 1 trials
+   
+    40:15:00: Balanced after 1 trials
+   
+    40:20:00: Balanced after 1 trials
+   
+    40:25:00: Balanced after 1 trials
+   
+    40:30:00: Balanced after 1 trials
+   
+    40:35:00: Balanced after 1 trials
+   
+    40:40:00: Balanced after 1 trials
+   
+    40:45:00: Balanced after 1 trials
+   
+    40:50:00: Balanced after 1 trials
+   
+    40:55:00: Balanced after 1 trials
+   
+    41:00:00: Balanced after 1 trials
+   
+    41:05:00: Balanced after 1 trials
+   
+    41:10:00: Balanced after 1 trials
+   
+    41:15:00: Balanced after 1 trials
+   
+    41:20:00: Balanced after 1 trials
+   
+    41:25:00: Balanced after 1 trials
+   
+    41:30:00: Balanced after 1 trials
+   
+    41:35:00: Balanced after 1 trials
+   
+    41:40:00: Balanced after 1 trials
+   
+    41:45:00: Balanced after 1 trials
+   
+    41:50:00: Balanced after 1 trials
+   
+    41:55:00: Balanced after 1 trials
+   
+    42:00:00: Balanced after 2 trials
+   
+    42:05:00: Balanced after 1 trials
+   
+    42:10:00: Balanced after 1 trials
+   
+    42:15:00: Balanced after 1 trials
+   
+    42:20:00: Balanced after 1 trials
+   
+    42:25:00: Balanced after 1 trials
+   
+    42:30:00: Balanced after 1 trials
+   
+    42:35:00: Balanced after 1 trials
+   
+    42:40:00: Balanced after 1 trials
+   
+    42:45:00: Balanced after 1 trials
+   
+    42:50:00: Balanced after 1 trials
+   
+    42:55:00: Balanced after 1 trials
+   
+    43:00:00: Balanced after 1 trials
+   
+    43:05:00: Balanced after 1 trials
+   
+    43:10:00: Balanced after 1 trials
+   
+    43:15:00: Balanced after 1 trials
+   
+    43:20:00: Balanced after 1 trials
+   
+    43:25:00: Balanced after 1 trials
+   
+    43:30:00: Balanced after 1 trials
+   
+    43:35:00: Balanced after 1 trials
+   
+    43:40:00: Balanced after 1 trials
+   
+    43:45:00: Balanced after 1 trials
+   
+    43:50:00: Balanced after 1 trials
+   
+    43:55:00: Balanced after 1 trials
+   
+    44:00:00: Balanced after 2 trials
+   
+    44:05:00: Balanced after 1 trials
+   
+    44:10:00: Balanced after 1 trials
+   
+    44:15:00: Balanced after 1 trials
+   
+    44:20:00: Balanced after 1 trials
+   
+    44:25:00: Balanced after 1 trials
+   
+    44:30:00: Balanced after 1 trials
+   
+    44:35:00: Balanced after 1 trials
+   
+    44:40:00: Balanced after 1 trials
+   
+    44:45:00: Balanced after 1 trials
+   
+    44:50:00: Balanced after 1 trials
+   
+    44:55:00: Balanced after 1 trials
+   
+    45:00:00: Balanced after 1 trials
+   
+    45:05:00: Balanced after 1 trials
+   
+    45:10:00: Balanced after 1 trials
+   
+    45:15:00: Balanced after 1 trials
+   
+    45:20:00: Balanced after 1 trials
+   
+    45:25:00: Balanced after 1 trials
+   
+    45:30:00: Balanced after 1 trials
+   
+    45:35:00: Balanced after 1 trials
+   
+    45:40:00: Balanced after 1 trials
+   
+    45:45:00: Balanced after 1 trials
+   
+    45:50:00: Balanced after 1 trials
+   
+    45:55:00: Balanced after 1 trials
+   
+    46:00:00: Balanced after 2 trials
+   
+    46:05:00: Balanced after 1 trials
+   
+    46:10:00: Balanced after 1 trials
+   
+    46:15:00: Balanced after 1 trials
+   
+    46:20:00: Balanced after 1 trials
+   
+    46:25:00: Balanced after 1 trials
+   
+    46:30:00: Balanced after 1 trials
+   
+    46:35:00: Balanced after 1 trials
+   
+    46:40:00: Balanced after 1 trials
+   
+    46:45:00: Balanced after 1 trials
+   
+    46:50:00: Balanced after 1 trials
+   
+    46:55:00: Balanced after 1 trials
+   
+    47:00:00: Balanced after 1 trials
+   
+    47:05:00: Balanced after 1 trials
+   
+    47:10:00: Balanced after 1 trials
+   
+    47:15:00: Balanced after 1 trials
+   
+    47:20:00: Balanced after 1 trials
+   
+    47:25:00: Balanced after 1 trials
+   
+    47:30:00: Balanced after 1 trials
+   
+    47:35:00: Balanced after 1 trials
+   
+    47:40:00: Balanced after 1 trials
+   
+    47:45:00: Balanced after 1 trials
+   
+    47:50:00: Balanced after 1 trials
+   
+    47:55:00: Balanced after 1 trials
+   
+    48:00:00: Balanced after 2 trials
+   
+    48:05:00: Balanced after 1 trials
+   
+    48:10:00: Balanced after 1 trials
+   
+    48:15:00: Balanced after 1 trials
+   
+    48:20:00: Balanced after 1 trials
+   
+    48:25:00: Balanced after 1 trials
+   
+    48:25:05: Pump 9 changed by Tank 2 control
+    48:25:05: Balanced after 12 trials
+    48:25:05: Reservoir 9 is emptying
+    48:25:05: Tank 2 is filling at 110.00 ft
+    48:25:05: Pump 9 changed from closed to open
+   
+    48:30:00: Balanced after 1 trials
+   
+    48:35:00: Balanced after 1 trials
+   
+    48:40:00: Balanced after 1 trials
+   
+    48:45:00: Balanced after 1 trials
+   
+    48:50:00: Balanced after 1 trials
+   
+    48:55:00: Balanced after 1 trials
+   
+    49:00:00: Balanced after 1 trials
+   
+    49:05:00: Balanced after 1 trials
+   
+    49:10:00: Balanced after 1 trials
+   
+    49:15:00: Balanced after 1 trials
+   
+    49:20:00: Balanced after 1 trials
+   
+    49:25:00: Balanced after 1 trials
+   
+    49:30:00: Balanced after 1 trials
+   
+    49:35:00: Balanced after 1 trials
+   
+    49:40:00: Balanced after 1 trials
+   
+    49:45:00: Balanced after 1 trials
+   
+    49:50:00: Balanced after 1 trials
+   
+    49:55:00: Balanced after 1 trials
+   
+    50:00:00: Balanced after 3 trials
+   
+    50:05:00: Balanced after 1 trials
+   
+    50:10:00: Balanced after 1 trials
+   
+    50:15:00: Balanced after 1 trials
+   
+    50:20:00: Balanced after 1 trials
+   
+    50:25:00: Balanced after 1 trials
+   
+    50:30:00: Balanced after 1 trials
+   
+    50:35:00: Balanced after 1 trials
+   
+    50:40:00: Balanced after 1 trials
+   
+    50:45:00: Balanced after 1 trials
+   
+    50:50:00: Balanced after 1 trials
+   
+    50:55:00: Balanced after 1 trials
+   
+    51:00:00: Balanced after 1 trials
+   
+    51:05:00: Balanced after 1 trials
+   
+    51:10:00: Balanced after 1 trials
+   
+    51:15:00: Balanced after 1 trials
+   
+    51:20:00: Balanced after 1 trials
+   
+    51:25:00: Balanced after 1 trials
+   
+    51:30:00: Balanced after 1 trials
+   
+    51:35:00: Balanced after 1 trials
+   
+    51:40:00: Balanced after 1 trials
+   
+    51:45:00: Balanced after 1 trials
+   
+    51:50:00: Balanced after 1 trials
+   
+    51:55:00: Balanced after 1 trials
+   
+    52:00:00: Balanced after 2 trials
+   
+    52:05:00: Balanced after 1 trials
+   
+    52:10:00: Balanced after 1 trials
+   
+    52:15:00: Balanced after 1 trials
+   
+    52:20:00: Balanced after 1 trials
+   
+    52:25:00: Balanced after 1 trials
+   
+    52:30:00: Balanced after 1 trials
+   
+    52:35:00: Balanced after 1 trials
+   
+    52:40:00: Balanced after 1 trials
+   
+    52:45:00: Balanced after 1 trials
+   
+    52:50:00: Balanced after 1 trials
+   
+    52:55:00: Balanced after 1 trials
+   
+    53:00:00: Balanced after 1 trials
+   
+    53:05:00: Balanced after 1 trials
+   
+    53:10:00: Balanced after 1 trials
+   
+    53:15:00: Balanced after 1 trials
+   
+    53:20:00: Balanced after 1 trials
+   
+    53:25:00: Balanced after 1 trials
+   
+    53:30:00: Balanced after 1 trials
+   
+    53:35:00: Balanced after 1 trials
+   
+    53:40:00: Balanced after 1 trials
+   
+    53:45:00: Balanced after 1 trials
+   
+    53:50:00: Balanced after 1 trials
+   
+    53:55:00: Balanced after 1 trials
+   
+    54:00:00: Balanced after 2 trials
+   
+    54:05:00: Balanced after 1 trials
+   
+    54:10:00: Balanced after 1 trials
+   
+    54:15:00: Balanced after 1 trials
+   
+    54:20:00: Balanced after 1 trials
+   
+    54:25:00: Balanced after 1 trials
+   
+    54:30:00: Balanced after 1 trials
+   
+    54:35:00: Balanced after 1 trials
+   
+    54:40:00: Balanced after 1 trials
+   
+    54:45:00: Balanced after 1 trials
+   
+    54:50:00: Balanced after 1 trials
+   
+    54:55:00: Balanced after 1 trials
+   
+    55:00:00: Balanced after 1 trials
+   
+    55:05:00: Balanced after 1 trials
+   
+    55:10:00: Balanced after 1 trials
+   
+    55:15:00: Balanced after 1 trials
+   
+    55:20:00: Balanced after 1 trials
+   
+    55:25:00: Balanced after 1 trials
+   
+    55:30:00: Balanced after 1 trials
+   
+    55:35:00: Balanced after 1 trials
+   
+    55:40:00: Balanced after 1 trials
+   
+    55:45:00: Balanced after 1 trials
+   
+    55:50:00: Balanced after 1 trials
+   
+    55:55:00: Balanced after 1 trials
+   
+    56:00:00: Balanced after 2 trials
+   
+    56:05:00: Balanced after 1 trials
+   
+    56:10:00: Balanced after 1 trials
+   
+    56:15:00: Balanced after 1 trials
+   
+    56:20:00: Balanced after 1 trials
+   
+    56:25:00: Balanced after 1 trials
+   
+    56:30:00: Balanced after 1 trials
+   
+    56:35:00: Balanced after 1 trials
+   
+    56:40:00: Balanced after 1 trials
+   
+    56:45:00: Balanced after 1 trials
+   
+    56:50:00: Balanced after 1 trials
+   
+    56:55:00: Balanced after 1 trials
+   
+    57:00:00: Balanced after 1 trials
+   
+    57:05:00: Balanced after 1 trials
+   
+    57:10:00: Balanced after 1 trials
+   
+    57:15:00: Balanced after 1 trials
+   
+    57:20:00: Balanced after 1 trials
+   
+    57:25:00: Balanced after 1 trials
+   
+    57:30:00: Balanced after 1 trials
+   
+    57:35:00: Balanced after 1 trials
+   
+    57:40:00: Balanced after 1 trials
+   
+    57:45:00: Balanced after 1 trials
+   
+    57:50:00: Balanced after 1 trials
+   
+    57:55:00: Balanced after 1 trials
+   
+    58:00:00: Balanced after 2 trials
+   
+    58:05:00: Balanced after 1 trials
+   
+    58:10:00: Balanced after 1 trials
+   
+    58:15:00: Balanced after 1 trials
+   
+    58:20:00: Balanced after 1 trials
+   
+    58:25:00: Balanced after 1 trials
+   
+    58:30:00: Balanced after 1 trials
+   
+    58:35:00: Balanced after 1 trials
+   
+    58:40:00: Balanced after 1 trials
+   
+    58:45:00: Balanced after 1 trials
+   
+    58:50:00: Balanced after 1 trials
+   
+    58:55:00: Balanced after 1 trials
+   
+    59:00:00: Balanced after 1 trials
+   
+    59:05:00: Balanced after 1 trials
+   
+    59:10:00: Balanced after 1 trials
+   
+    59:15:00: Balanced after 1 trials
+   
+    59:20:00: Balanced after 1 trials
+   
+    59:25:00: Balanced after 1 trials
+   
+    59:30:00: Balanced after 1 trials
+   
+    59:35:00: Balanced after 1 trials
+   
+    59:40:00: Balanced after 1 trials
+   
+    59:45:00: Balanced after 1 trials
+   
+    59:50:00: Balanced after 1 trials
+   
+    59:55:00: Balanced after 1 trials
+   
+    60:00:00: Balanced after 2 trials
+   
+    60:05:00: Balanced after 1 trials
+   
+    60:10:00: Balanced after 1 trials
+   
+    60:15:00: Balanced after 1 trials
+   
+    60:20:00: Balanced after 1 trials
+   
+    60:25:00: Balanced after 1 trials
+   
+    60:30:00: Balanced after 1 trials
+   
+    60:35:00: Balanced after 1 trials
+   
+    60:40:00: Balanced after 1 trials
+   
+    60:45:00: Balanced after 1 trials
+   
+    60:50:00: Balanced after 1 trials
+   
+    60:55:00: Balanced after 1 trials
+   
+    61:00:00: Balanced after 1 trials
+   
+    61:05:00: Balanced after 1 trials
+   
+    61:10:00: Balanced after 1 trials
+   
+    61:15:00: Balanced after 1 trials
+   
+    61:20:00: Balanced after 1 trials
+   
+    61:25:00: Balanced after 1 trials
+   
+    61:30:00: Balanced after 1 trials
+   
+    61:35:00: Balanced after 1 trials
+   
+    61:40:00: Balanced after 1 trials
+   
+    61:45:00: Balanced after 1 trials
+   
+    61:50:00: Balanced after 1 trials
+   
+    61:55:00: Balanced after 1 trials
+   
+    62:00:00: Balanced after 3 trials
+   
+    62:05:00: Balanced after 2 trials
+   
+    62:10:00: Balanced after 2 trials
+   
+    62:15:00: Balanced after 2 trials
+   
+    62:20:00: Balanced after 2 trials
+   
+    62:25:00: Balanced after 2 trials
+   
+    62:30:00: Balanced after 2 trials
+   
+    62:35:00: Balanced after 2 trials
+   
+    62:40:00: Balanced after 2 trials
+   
+    62:45:00: Balanced after 2 trials
+   
+    62:50:00: Balanced after 2 trials
+   
+    62:55:00: Balanced after 2 trials
+   
+    63:00:00: Balanced after 2 trials
+   
+    63:05:00: Balanced after 2 trials
+   
+    63:10:00: Balanced after 2 trials
+   
+    63:15:00: Balanced after 2 trials
+   
+    63:19:31: Pump 9 changed by Tank 2 control
+    63:19:31: Balanced after 4 trials
+    63:19:31: Reservoir 9 is closed
+    63:19:31: Tank 2 is emptying at 140.00 ft
+    63:19:31: Pump 9 changed from open to closed
+   
+    63:20:00: Balanced after 1 trials
+   
+    63:25:00: Balanced after 1 trials
+   
+    63:30:00: Balanced after 1 trials
+   
+    63:35:00: Balanced after 1 trials
+   
+    63:40:00: Balanced after 1 trials
+   
+    63:45:00: Balanced after 1 trials
+   
+    63:50:00: Balanced after 1 trials
+   
+    63:55:00: Balanced after 1 trials
+   
+    64:00:00: Balanced after 2 trials
+   
+    64:05:00: Balanced after 1 trials
+   
+    64:10:00: Balanced after 1 trials
+   
+    64:15:00: Balanced after 1 trials
+   
+    64:20:00: Balanced after 1 trials
+   
+    64:25:00: Balanced after 1 trials
+   
+    64:30:00: Balanced after 1 trials
+   
+    64:35:00: Balanced after 1 trials
+   
+    64:40:00: Balanced after 1 trials
+   
+    64:45:00: Balanced after 1 trials
+   
+    64:50:00: Balanced after 1 trials
+   
+    64:55:00: Balanced after 1 trials
+   
+    65:00:00: Balanced after 1 trials
+   
+    65:05:00: Balanced after 1 trials
+   
+    65:10:00: Balanced after 1 trials
+   
+    65:15:00: Balanced after 1 trials
+   
+    65:20:00: Balanced after 1 trials
+   
+    65:25:00: Balanced after 1 trials
+   
+    65:30:00: Balanced after 1 trials
+   
+    65:35:00: Balanced after 1 trials
+   
+    65:40:00: Balanced after 1 trials
+   
+    65:45:00: Balanced after 1 trials
+   
+    65:50:00: Balanced after 1 trials
+   
+    65:55:00: Balanced after 1 trials
+   
+    66:00:00: Balanced after 2 trials
+   
+    66:05:00: Balanced after 1 trials
+   
+    66:10:00: Balanced after 1 trials
+   
+    66:15:00: Balanced after 1 trials
+   
+    66:20:00: Balanced after 1 trials
+   
+    66:25:00: Balanced after 1 trials
+   
+    66:30:00: Balanced after 1 trials
+   
+    66:35:00: Balanced after 1 trials
+   
+    66:40:00: Balanced after 1 trials
+   
+    66:45:00: Balanced after 1 trials
+   
+    66:50:00: Balanced after 1 trials
+   
+    66:55:00: Balanced after 1 trials
+   
+    67:00:00: Balanced after 1 trials
+   
+    67:05:00: Balanced after 1 trials
+   
+    67:10:00: Balanced after 1 trials
+   
+    67:15:00: Balanced after 1 trials
+   
+    67:20:00: Balanced after 1 trials
+   
+    67:25:00: Balanced after 1 trials
+   
+    67:30:00: Balanced after 1 trials
+   
+    67:35:00: Balanced after 1 trials
+   
+    67:40:00: Balanced after 1 trials
+   
+    67:45:00: Balanced after 1 trials
+   
+    67:50:00: Balanced after 1 trials
+   
+    67:55:00: Balanced after 1 trials
+   
+    68:00:00: Balanced after 2 trials
+   
+    68:05:00: Balanced after 1 trials
+   
+    68:10:00: Balanced after 1 trials
+   
+    68:15:00: Balanced after 1 trials
+   
+    68:20:00: Balanced after 1 trials
+   
+    68:25:00: Balanced after 1 trials
+   
+    68:30:00: Balanced after 1 trials
+   
+    68:35:00: Balanced after 1 trials
+   
+    68:40:00: Balanced after 1 trials
+   
+    68:45:00: Balanced after 1 trials
+   
+    68:50:00: Balanced after 1 trials
+   
+    68:55:00: Balanced after 1 trials
+   
+    69:00:00: Balanced after 1 trials
+   
+    69:05:00: Balanced after 1 trials
+   
+    69:10:00: Balanced after 1 trials
+   
+    69:15:00: Balanced after 1 trials
+   
+    69:20:00: Balanced after 1 trials
+   
+    69:25:00: Balanced after 1 trials
+   
+    69:30:00: Balanced after 1 trials
+   
+    69:35:00: Balanced after 1 trials
+   
+    69:40:00: Balanced after 1 trials
+   
+    69:45:00: Balanced after 1 trials
+   
+    69:50:00: Balanced after 1 trials
+   
+    69:55:00: Balanced after 1 trials
+   
+    70:00:00: Balanced after 2 trials
+   
+    70:05:00: Balanced after 1 trials
+   
+    70:10:00: Balanced after 1 trials
+   
+    70:15:00: Balanced after 1 trials
+   
+    70:20:00: Balanced after 1 trials
+   
+    70:25:00: Balanced after 1 trials
+   
+    70:30:00: Balanced after 1 trials
+   
+    70:35:00: Balanced after 1 trials
+   
+    70:40:00: Balanced after 1 trials
+   
+    70:45:00: Balanced after 1 trials
+   
+    70:50:00: Balanced after 1 trials
+   
+    70:55:00: Balanced after 1 trials
+   
+    71:00:00: Balanced after 1 trials
+   
+    71:05:00: Balanced after 1 trials
+   
+    71:10:00: Balanced after 1 trials
+   
+    71:15:00: Balanced after 1 trials
+   
+    71:20:00: Balanced after 1 trials
+   
+    71:25:00: Balanced after 1 trials
+   
+    71:30:00: Balanced after 1 trials
+   
+    71:35:00: Balanced after 1 trials
+   
+    71:40:00: Balanced after 1 trials
+   
+    71:45:00: Balanced after 1 trials
+   
+    71:50:00: Balanced after 1 trials
+   
+    71:55:00: Balanced after 1 trials
+   
+    72:00:00: Balanced after 2 trials
+   
+    72:05:00: Balanced after 1 trials
+   
+    72:10:00: Balanced after 1 trials
+   
+    72:15:00: Balanced after 1 trials
+   
+    72:20:00: Balanced after 1 trials
+   
+    72:25:00: Balanced after 1 trials
+   
+    72:30:00: Balanced after 1 trials
+   
+    72:35:00: Balanced after 1 trials
+   
+    72:40:00: Balanced after 1 trials
+   
+    72:45:00: Balanced after 1 trials
+   
+    72:50:00: Balanced after 1 trials
+   
+    72:55:00: Balanced after 1 trials
+   
+    73:00:00: Balanced after 1 trials
+   
+    73:05:00: Balanced after 1 trials
+   
+    73:10:00: Balanced after 1 trials
+   
+    73:15:00: Balanced after 1 trials
+   
+    73:20:00: Balanced after 1 trials
+   
+    73:25:00: Balanced after 1 trials
+   
+    73:28:15: Pump 9 changed by Tank 2 control
+    73:28:15: Balanced after 12 trials
+    73:28:15: Reservoir 9 is emptying
+    73:28:15: Tank 2 is filling at 110.00 ft
+    73:28:15: Pump 9 changed from closed to open
+   
+    73:30:00: Balanced after 1 trials
+   
+    73:35:00: Balanced after 1 trials
+   
+    73:40:00: Balanced after 1 trials
+   
+    73:45:00: Balanced after 1 trials
+   
+    73:50:00: Balanced after 1 trials
+   
+    73:55:00: Balanced after 1 trials
+   
+    74:00:00: Balanced after 3 trials
+   
+    74:05:00: Balanced after 1 trials
+   
+    74:10:00: Balanced after 1 trials
+   
+    74:15:00: Balanced after 1 trials
+   
+    74:20:00: Balanced after 1 trials
+   
+    74:25:00: Balanced after 1 trials
+   
+    74:30:00: Balanced after 1 trials
+   
+    74:35:00: Balanced after 1 trials
+   
+    74:40:00: Balanced after 1 trials
+   
+    74:45:00: Balanced after 1 trials
+   
+    74:50:00: Balanced after 1 trials
+   
+    74:55:00: Balanced after 1 trials
+   
+    75:00:00: Balanced after 1 trials
+   
+    75:05:00: Balanced after 1 trials
+   
+    75:10:00: Balanced after 1 trials
+   
+    75:15:00: Balanced after 1 trials
+   
+    75:20:00: Balanced after 1 trials
+   
+    75:25:00: Balanced after 1 trials
+   
+    75:30:00: Balanced after 1 trials
+   
+    75:35:00: Balanced after 1 trials
+   
+    75:40:00: Balanced after 1 trials
+   
+    75:45:00: Balanced after 1 trials
+   
+    75:50:00: Balanced after 1 trials
+   
+    75:55:00: Balanced after 1 trials
+   
+    76:00:00: Balanced after 2 trials
+   
+    76:05:00: Balanced after 1 trials
+   
+    76:10:00: Balanced after 1 trials
+   
+    76:15:00: Balanced after 1 trials
+   
+    76:20:00: Balanced after 1 trials
+   
+    76:25:00: Balanced after 1 trials
+   
+    76:30:00: Balanced after 1 trials
+   
+    76:35:00: Balanced after 1 trials
+   
+    76:40:00: Balanced after 1 trials
+   
+    76:45:00: Balanced after 1 trials
+   
+    76:50:00: Balanced after 1 trials
+   
+    76:55:00: Balanced after 1 trials
+   
+    77:00:00: Balanced after 1 trials
+   
+    77:05:00: Balanced after 1 trials
+   
+    77:10:00: Balanced after 1 trials
+   
+    77:15:00: Balanced after 1 trials
+   
+    77:20:00: Balanced after 1 trials
+   
+    77:25:00: Balanced after 1 trials
+   
+    77:30:00: Balanced after 1 trials
+   
+    77:35:00: Balanced after 1 trials
+   
+    77:40:00: Balanced after 1 trials
+   
+    77:45:00: Balanced after 1 trials
+   
+    77:50:00: Balanced after 1 trials
+   
+    77:55:00: Balanced after 1 trials
+   
+    78:00:00: Balanced after 2 trials
+   
+    78:05:00: Balanced after 1 trials
+   
+    78:10:00: Balanced after 1 trials
+   
+    78:15:00: Balanced after 1 trials
+   
+    78:20:00: Balanced after 1 trials
+   
+    78:25:00: Balanced after 1 trials
+   
+    78:30:00: Balanced after 1 trials
+   
+    78:35:00: Balanced after 1 trials
+   
+    78:40:00: Balanced after 1 trials
+   
+    78:45:00: Balanced after 1 trials
+   
+    78:50:00: Balanced after 1 trials
+   
+    78:55:00: Balanced after 1 trials
+   
+    79:00:00: Balanced after 1 trials
+   
+    79:05:00: Balanced after 1 trials
+   
+    79:10:00: Balanced after 1 trials
+   
+    79:15:00: Balanced after 1 trials
+   
+    79:20:00: Balanced after 1 trials
+   
+    79:25:00: Balanced after 1 trials
+   
+    79:30:00: Balanced after 1 trials
+   
+    79:35:00: Balanced after 1 trials
+   
+    79:40:00: Balanced after 1 trials
+   
+    79:45:00: Balanced after 1 trials
+   
+    79:50:00: Balanced after 1 trials
+   
+    79:55:00: Balanced after 1 trials
+   
+    80:00:00: Balanced after 2 trials
+   
+    80:05:00: Balanced after 1 trials
+   
+    80:10:00: Balanced after 1 trials
+   
+    80:15:00: Balanced after 1 trials
+   
+    80:20:00: Balanced after 1 trials
+   
+    80:25:00: Balanced after 1 trials
+   
+    80:30:00: Balanced after 1 trials
+   
+    80:35:00: Balanced after 1 trials
+   
+    80:40:00: Balanced after 1 trials
+   
+    80:45:00: Balanced after 1 trials
+   
+    80:50:00: Balanced after 1 trials
+   
+    80:55:00: Balanced after 1 trials
+   
+    81:00:00: Balanced after 1 trials
+   
+    81:05:00: Balanced after 1 trials
+   
+    81:10:00: Balanced after 1 trials
+   
+    81:15:00: Balanced after 1 trials
+   
+    81:20:00: Balanced after 1 trials
+   
+    81:25:00: Balanced after 1 trials
+   
+    81:30:00: Balanced after 1 trials
+   
+    81:35:00: Balanced after 1 trials
+   
+    81:40:00: Balanced after 1 trials
+   
+    81:45:00: Balanced after 1 trials
+   
+    81:50:00: Balanced after 1 trials
+   
+    81:55:00: Balanced after 1 trials
+   
+    82:00:00: Balanced after 2 trials
+   
+    82:05:00: Balanced after 1 trials
+   
+    82:10:00: Balanced after 1 trials
+   
+    82:15:00: Balanced after 1 trials
+   
+    82:20:00: Balanced after 1 trials
+   
+    82:25:00: Balanced after 1 trials
+   
+    82:30:00: Balanced after 1 trials
+   
+    82:35:00: Balanced after 1 trials
+   
+    82:40:00: Balanced after 1 trials
+   
+    82:45:00: Balanced after 1 trials
+   
+    82:50:00: Balanced after 1 trials
+   
+    82:55:00: Balanced after 1 trials
+   
+    83:00:00: Balanced after 1 trials
+   
+    83:05:00: Balanced after 1 trials
+   
+    83:10:00: Balanced after 1 trials
+   
+    83:15:00: Balanced after 1 trials
+   
+    83:20:00: Balanced after 1 trials
+   
+    83:25:00: Balanced after 1 trials
+   
+    83:30:00: Balanced after 1 trials
+   
+    83:35:00: Balanced after 1 trials
+   
+    83:40:00: Balanced after 1 trials
+   
+    83:45:00: Balanced after 1 trials
+   
+    83:50:00: Balanced after 1 trials
+   
+    83:55:00: Balanced after 1 trials
+   
+    84:00:00: Balanced after 2 trials
+   
+    84:05:00: Balanced after 1 trials
+   
+    84:10:00: Balanced after 1 trials
+   
+    84:15:00: Balanced after 1 trials
+   
+    84:20:00: Balanced after 1 trials
+   
+    84:25:00: Balanced after 1 trials
+   
+    84:30:00: Balanced after 1 trials
+   
+    84:35:00: Balanced after 1 trials
+   
+    84:40:00: Balanced after 1 trials
+   
+    84:45:00: Balanced after 1 trials
+   
+    84:50:00: Balanced after 1 trials
+   
+    84:55:00: Balanced after 1 trials
+   
+    85:00:00: Balanced after 1 trials
+   
+    85:05:00: Balanced after 1 trials
+   
+    85:10:00: Balanced after 1 trials
+   
+    85:15:00: Balanced after 1 trials
+   
+    85:20:00: Balanced after 1 trials
+   
+    85:25:00: Balanced after 1 trials
+   
+    85:30:00: Balanced after 1 trials
+   
+    85:35:00: Balanced after 1 trials
+   
+    85:40:00: Balanced after 1 trials
+   
+    85:45:00: Balanced after 1 trials
+   
+    85:50:00: Balanced after 1 trials
+   
+    85:55:00: Balanced after 1 trials
+   
+    86:00:00: Balanced after 3 trials
+   
+    86:05:00: Balanced after 2 trials
+   
+    86:10:00: Balanced after 2 trials
+   
+    86:15:00: Balanced after 2 trials
+   
+    86:20:00: Balanced after 2 trials
+   
+    86:25:00: Balanced after 2 trials
+   
+    86:30:00: Balanced after 2 trials
+   
+    86:35:00: Balanced after 2 trials
+   
+    86:40:00: Balanced after 2 trials
+   
+    86:45:00: Balanced after 2 trials
+   
+    86:50:00: Balanced after 2 trials
+   
+    86:55:00: Balanced after 2 trials
+   
+    87:00:00: Balanced after 2 trials
+   
+    87:05:00: Balanced after 2 trials
+   
+    87:10:00: Balanced after 2 trials
+   
+    87:15:00: Balanced after 2 trials
+   
+    87:20:00: Balanced after 2 trials
+   
+    87:25:00: Balanced after 2 trials
+   
+    87:30:00: Balanced after 2 trials
+   
+    87:35:00: Balanced after 2 trials
+   
+    87:40:00: Balanced after 2 trials
+   
+    87:45:00: Balanced after 2 trials
+   
+    87:50:00: Balanced after 2 trials
+   
+    87:55:00: Balanced after 2 trials
+   
+    88:00:00: Balanced after 3 trials
+   
+    88:01:53: Pump 9 changed by Tank 2 control
+    88:01:53: Balanced after 4 trials
+    88:01:53: Reservoir 9 is closed
+    88:01:53: Tank 2 is emptying at 140.00 ft
+    88:01:53: Pump 9 changed from open to closed
+   
+    88:05:00: Balanced after 1 trials
+   
+    88:10:00: Balanced after 1 trials
+   
+    88:15:00: Balanced after 1 trials
+   
+    88:20:00: Balanced after 1 trials
+   
+    88:25:00: Balanced after 1 trials
+   
+    88:30:00: Balanced after 1 trials
+   
+    88:35:00: Balanced after 1 trials
+   
+    88:40:00: Balanced after 1 trials
+   
+    88:45:00: Balanced after 1 trials
+   
+    88:50:00: Balanced after 1 trials
+   
+    88:55:00: Balanced after 1 trials
+   
+    89:00:00: Balanced after 1 trials
+   
+    89:05:00: Balanced after 1 trials
+   
+    89:10:00: Balanced after 1 trials
+   
+    89:15:00: Balanced after 1 trials
+   
+    89:20:00: Balanced after 1 trials
+   
+    89:25:00: Balanced after 1 trials
+   
+    89:30:00: Balanced after 1 trials
+   
+    89:35:00: Balanced after 1 trials
+   
+    89:40:00: Balanced after 1 trials
+   
+    89:45:00: Balanced after 1 trials
+   
+    89:50:00: Balanced after 1 trials
+   
+    89:55:00: Balanced after 1 trials
+   
+    90:00:00: Balanced after 2 trials
+   
+    90:05:00: Balanced after 1 trials
+   
+    90:10:00: Balanced after 1 trials
+   
+    90:15:00: Balanced after 1 trials
+   
+    90:20:00: Balanced after 1 trials
+   
+    90:25:00: Balanced after 1 trials
+   
+    90:30:00: Balanced after 1 trials
+   
+    90:35:00: Balanced after 1 trials
+   
+    90:40:00: Balanced after 1 trials
+   
+    90:45:00: Balanced after 1 trials
+   
+    90:50:00: Balanced after 1 trials
+   
+    90:55:00: Balanced after 1 trials
+   
+    91:00:00: Balanced after 1 trials
+   
+    91:05:00: Balanced after 1 trials
+   
+    91:10:00: Balanced after 1 trials
+   
+    91:15:00: Balanced after 1 trials
+   
+    91:20:00: Balanced after 1 trials
+   
+    91:25:00: Balanced after 1 trials
+   
+    91:30:00: Balanced after 1 trials
+   
+    91:35:00: Balanced after 1 trials
+   
+    91:40:00: Balanced after 1 trials
+   
+    91:45:00: Balanced after 1 trials
+   
+    91:50:00: Balanced after 1 trials
+   
+    91:55:00: Balanced after 1 trials
+   
+    92:00:00: Balanced after 2 trials
+   
+    92:05:00: Balanced after 1 trials
+   
+    92:10:00: Balanced after 1 trials
+   
+    92:15:00: Balanced after 1 trials
+   
+    92:20:00: Balanced after 1 trials
+   
+    92:25:00: Balanced after 1 trials
+   
+    92:30:00: Balanced after 1 trials
+   
+    92:35:00: Balanced after 1 trials
+   
+    92:40:00: Balanced after 1 trials
+   
+    92:45:00: Balanced after 1 trials
+   
+    92:50:00: Balanced after 1 trials
+   
+    92:55:00: Balanced after 1 trials
+   
+    93:00:00: Balanced after 1 trials
+   
+    93:05:00: Balanced after 1 trials
+   
+    93:10:00: Balanced after 1 trials
+   
+    93:15:00: Balanced after 1 trials
+   
+    93:20:00: Balanced after 1 trials
+   
+    93:25:00: Balanced after 1 trials
+   
+    93:30:00: Balanced after 1 trials
+   
+    93:35:00: Balanced after 1 trials
+   
+    93:40:00: Balanced after 1 trials
+   
+    93:45:00: Balanced after 1 trials
+   
+    93:50:00: Balanced after 1 trials
+   
+    93:55:00: Balanced after 1 trials
+   
+    94:00:00: Balanced after 2 trials
+   
+    94:05:00: Balanced after 1 trials
+   
+    94:10:00: Balanced after 1 trials
+   
+    94:15:00: Balanced after 1 trials
+   
+    94:20:00: Balanced after 1 trials
+   
+    94:25:00: Balanced after 1 trials
+   
+    94:30:00: Balanced after 1 trials
+   
+    94:35:00: Balanced after 1 trials
+   
+    94:40:00: Balanced after 1 trials
+   
+    94:45:00: Balanced after 1 trials
+   
+    94:50:00: Balanced after 1 trials
+   
+    94:55:00: Balanced after 1 trials
+   
+    95:00:00: Balanced after 1 trials
+   
+    95:05:00: Balanced after 1 trials
+   
+    95:10:00: Balanced after 1 trials
+   
+    95:15:00: Balanced after 1 trials
+   
+    95:20:00: Balanced after 1 trials
+   
+    95:25:00: Balanced after 1 trials
+   
+    95:30:00: Balanced after 1 trials
+   
+    95:35:00: Balanced after 1 trials
+   
+    95:40:00: Balanced after 1 trials
+   
+    95:45:00: Balanced after 1 trials
+   
+    95:50:00: Balanced after 1 trials
+   
+    95:55:00: Balanced after 1 trials
+   
+    96:00:00: Balanced after 2 trials
+   
+    96:05:00: Balanced after 1 trials
+   
+    96:10:00: Balanced after 1 trials
+   
+    96:15:00: Balanced after 1 trials
+   
+    96:20:00: Balanced after 1 trials
+   
+    96:25:00: Balanced after 1 trials
+   
+    96:30:00: Balanced after 1 trials
+   
+    96:35:00: Balanced after 1 trials
+   
+    96:40:00: Balanced after 1 trials
+   
+    96:45:00: Balanced after 1 trials
+   
+    96:50:00: Balanced after 1 trials
+   
+    96:55:00: Balanced after 1 trials
+   
+    97:00:00: Balanced after 1 trials
+   
+    97:05:00: Balanced after 1 trials
+   
+    97:10:00: Balanced after 1 trials
+   
+    97:15:00: Balanced after 1 trials
+   
+    97:20:00: Balanced after 1 trials
+   
+    97:25:00: Balanced after 1 trials
+   
+    97:30:00: Balanced after 1 trials
+   
+    97:35:00: Balanced after 1 trials
+   
+    97:40:00: Balanced after 1 trials
+   
+    97:45:00: Balanced after 1 trials
+   
+    97:50:00: Balanced after 1 trials
+   
+    97:55:00: Balanced after 1 trials
+   
+    98:00:00: Balanced after 2 trials
+   
+    98:01:27: Pump 9 changed by Tank 2 control
+    98:01:27: Balanced after 12 trials
+    98:01:27: Reservoir 9 is emptying
+    98:01:27: Tank 2 is filling at 110.00 ft
+    98:01:27: Pump 9 changed from closed to open
+   
+    98:05:00: Balanced after 1 trials
+   
+    98:10:00: Balanced after 1 trials
+   
+    98:15:00: Balanced after 1 trials
+   
+    98:20:00: Balanced after 1 trials
+   
+    98:25:00: Balanced after 1 trials
+   
+    98:30:00: Balanced after 1 trials
+   
+    98:35:00: Balanced after 1 trials
+   
+    98:40:00: Balanced after 1 trials
+   
+    98:45:00: Balanced after 1 trials
+   
+    98:50:00: Balanced after 1 trials
+   
+    98:55:00: Balanced after 1 trials
+   
+    99:00:00: Balanced after 1 trials
+   
+    99:05:00: Balanced after 1 trials
+   
+    99:10:00: Balanced after 1 trials
+   
+    99:15:00: Balanced after 1 trials
+   
+    99:20:00: Balanced after 1 trials
+   
+    99:25:00: Balanced after 1 trials
+   
+    99:30:00: Balanced after 1 trials
+   
+    99:35:00: Balanced after 1 trials
+   
+    99:40:00: Balanced after 1 trials
+   
+    99:45:00: Balanced after 1 trials
+   
+    99:50:00: Balanced after 1 trials
+   
+    99:55:00: Balanced after 1 trials
+   
+   100:00:00: Balanced after 2 trials
+   
+   100:05:00: Balanced after 1 trials
+   
+   100:10:00: Balanced after 1 trials
+   
+   100:15:00: Balanced after 1 trials
+   
+   100:20:00: Balanced after 1 trials
+   
+   100:25:00: Balanced after 1 trials
+   
+   100:30:00: Balanced after 1 trials
+   
+   100:35:00: Balanced after 1 trials
+   
+   100:40:00: Balanced after 1 trials
+   
+   100:45:00: Balanced after 1 trials
+   
+   100:50:00: Balanced after 1 trials
+   
+   100:55:00: Balanced after 1 trials
+   
+   101:00:00: Balanced after 1 trials
+   
+   101:05:00: Balanced after 1 trials
+   
+   101:10:00: Balanced after 1 trials
+   
+   101:15:00: Balanced after 1 trials
+   
+   101:20:00: Balanced after 1 trials
+   
+   101:25:00: Balanced after 1 trials
+   
+   101:30:00: Balanced after 1 trials
+   
+   101:35:00: Balanced after 1 trials
+   
+   101:40:00: Balanced after 1 trials
+   
+   101:45:00: Balanced after 1 trials
+   
+   101:50:00: Balanced after 1 trials
+   
+   101:55:00: Balanced after 1 trials
+   
+   102:00:00: Balanced after 2 trials
+   
+   102:05:00: Balanced after 1 trials
+   
+   102:10:00: Balanced after 1 trials
+   
+   102:15:00: Balanced after 1 trials
+   
+   102:20:00: Balanced after 1 trials
+   
+   102:25:00: Balanced after 1 trials
+   
+   102:30:00: Balanced after 1 trials
+   
+   102:35:00: Balanced after 1 trials
+   
+   102:40:00: Balanced after 1 trials
+   
+   102:45:00: Balanced after 1 trials
+   
+   102:50:00: Balanced after 1 trials
+   
+   102:55:00: Balanced after 1 trials
+   
+   103:00:00: Balanced after 1 trials
+   
+   103:05:00: Balanced after 1 trials
+   
+   103:10:00: Balanced after 1 trials
+   
+   103:15:00: Balanced after 1 trials
+   
+   103:20:00: Balanced after 1 trials
+   
+   103:25:00: Balanced after 1 trials
+   
+   103:30:00: Balanced after 1 trials
+   
+   103:35:00: Balanced after 1 trials
+   
+   103:40:00: Balanced after 1 trials
+   
+   103:45:00: Balanced after 1 trials
+   
+   103:50:00: Balanced after 1 trials
+   
+   103:55:00: Balanced after 1 trials
+   
+   104:00:00: Balanced after 2 trials
+   
+   104:05:00: Balanced after 1 trials
+   
+   104:10:00: Balanced after 1 trials
+   
+   104:15:00: Balanced after 1 trials
+   
+   104:20:00: Balanced after 1 trials
+   
+   104:25:00: Balanced after 1 trials
+   
+   104:30:00: Balanced after 1 trials
+   
+   104:35:00: Balanced after 1 trials
+   
+   104:40:00: Balanced after 1 trials
+   
+   104:45:00: Balanced after 1 trials
+   
+   104:50:00: Balanced after 1 trials
+   
+   104:55:00: Balanced after 1 trials
+   
+   105:00:00: Balanced after 1 trials
+   
+   105:05:00: Balanced after 1 trials
+   
+   105:10:00: Balanced after 1 trials
+   
+   105:15:00: Balanced after 1 trials
+   
+   105:20:00: Balanced after 1 trials
+   
+   105:25:00: Balanced after 1 trials
+   
+   105:30:00: Balanced after 1 trials
+   
+   105:35:00: Balanced after 1 trials
+   
+   105:40:00: Balanced after 1 trials
+   
+   105:45:00: Balanced after 1 trials
+   
+   105:50:00: Balanced after 1 trials
+   
+   105:55:00: Balanced after 1 trials
+   
+   106:00:00: Balanced after 2 trials
+   
+   106:05:00: Balanced after 1 trials
+   
+   106:10:00: Balanced after 1 trials
+   
+   106:15:00: Balanced after 1 trials
+   
+   106:20:00: Balanced after 1 trials
+   
+   106:25:00: Balanced after 1 trials
+   
+   106:30:00: Balanced after 1 trials
+   
+   106:35:00: Balanced after 1 trials
+   
+   106:40:00: Balanced after 1 trials
+   
+   106:45:00: Balanced after 1 trials
+   
+   106:50:00: Balanced after 1 trials
+   
+   106:55:00: Balanced after 1 trials
+   
+   107:00:00: Balanced after 1 trials
+   
+   107:05:00: Balanced after 1 trials
+   
+   107:10:00: Balanced after 1 trials
+   
+   107:15:00: Balanced after 1 trials
+   
+   107:20:00: Balanced after 1 trials
+   
+   107:25:00: Balanced after 1 trials
+   
+   107:30:00: Balanced after 1 trials
+   
+   107:35:00: Balanced after 1 trials
+   
+   107:40:00: Balanced after 1 trials
+   
+   107:45:00: Balanced after 1 trials
+   
+   107:50:00: Balanced after 1 trials
+   
+   107:55:00: Balanced after 1 trials
+   
+   108:00:00: Balanced after 2 trials
+   
+   108:05:00: Balanced after 1 trials
+   
+   108:10:00: Balanced after 1 trials
+   
+   108:15:00: Balanced after 1 trials
+   
+   108:20:00: Balanced after 1 trials
+   
+   108:25:00: Balanced after 1 trials
+   
+   108:30:00: Balanced after 1 trials
+   
+   108:35:00: Balanced after 1 trials
+   
+   108:40:00: Balanced after 1 trials
+   
+   108:45:00: Balanced after 1 trials
+   
+   108:50:00: Balanced after 1 trials
+   
+   108:55:00: Balanced after 1 trials
+   
+   109:00:00: Balanced after 1 trials
+   
+   109:05:00: Balanced after 1 trials
+   
+   109:10:00: Balanced after 1 trials
+   
+   109:15:00: Balanced after 1 trials
+   
+   109:20:00: Balanced after 1 trials
+   
+   109:25:00: Balanced after 1 trials
+   
+   109:30:00: Balanced after 1 trials
+   
+   109:35:00: Balanced after 1 trials
+   
+   109:40:00: Balanced after 1 trials
+   
+   109:45:00: Balanced after 1 trials
+   
+   109:50:00: Balanced after 1 trials
+   
+   109:55:00: Balanced after 1 trials
+   
+   110:00:00: Balanced after 3 trials
+   
+   110:05:00: Balanced after 2 trials
+   
+   110:10:00: Balanced after 2 trials
+   
+   110:15:00: Balanced after 2 trials
+   
+   110:20:00: Balanced after 2 trials
+   
+   110:25:00: Balanced after 2 trials
+   
+   110:30:00: Balanced after 2 trials
+   
+   110:35:00: Balanced after 2 trials
+   
+   110:40:00: Balanced after 2 trials
+   
+   110:45:00: Balanced after 2 trials
+   
+   110:50:00: Balanced after 2 trials
+   
+   110:55:00: Balanced after 2 trials
+   
+   111:00:00: Balanced after 2 trials
+   
+   111:05:00: Balanced after 2 trials
+   
+   111:10:00: Balanced after 2 trials
+   
+   111:15:00: Balanced after 2 trials
+   
+   111:20:00: Balanced after 2 trials
+   
+   111:25:00: Balanced after 2 trials
+   
+   111:30:00: Balanced after 2 trials
+   
+   111:35:00: Balanced after 2 trials
+   
+   111:40:00: Balanced after 2 trials
+   
+   111:45:00: Balanced after 2 trials
+   
+   111:50:00: Balanced after 2 trials
+   
+   111:55:00: Balanced after 2 trials
+   
+   112:00:00: Balanced after 3 trials
+   
+   112:05:00: Balanced after 2 trials
+   
+   112:10:00: Balanced after 2 trials
+   
+   112:15:00: Balanced after 2 trials
+   
+   112:19:51: Pump 9 changed by Tank 2 control
+   112:19:51: Balanced after 4 trials
+   112:19:51: Reservoir 9 is closed
+   112:19:51: Tank 2 is emptying at 140.00 ft
+   112:19:51: Pump 9 changed from open to closed
+   
+   112:20:00: Balanced after 1 trials
+   
+   112:25:00: Balanced after 1 trials
+   
+   112:30:00: Balanced after 1 trials
+   
+   112:35:00: Balanced after 1 trials
+   
+   112:40:00: Balanced after 1 trials
+   
+   112:45:00: Balanced after 1 trials
+   
+   112:50:00: Balanced after 1 trials
+   
+   112:55:00: Balanced after 1 trials
+   
+   113:00:00: Balanced after 1 trials
+   
+   113:05:00: Balanced after 1 trials
+   
+   113:10:00: Balanced after 1 trials
+   
+   113:15:00: Balanced after 1 trials
+   
+   113:20:00: Balanced after 1 trials
+   
+   113:25:00: Balanced after 1 trials
+   
+   113:30:00: Balanced after 1 trials
+   
+   113:35:00: Balanced after 1 trials
+   
+   113:40:00: Balanced after 1 trials
+   
+   113:45:00: Balanced after 1 trials
+   
+   113:50:00: Balanced after 1 trials
+   
+   113:55:00: Balanced after 1 trials
+   
+   114:00:00: Balanced after 2 trials
+   
+   114:05:00: Balanced after 1 trials
+   
+   114:10:00: Balanced after 1 trials
+   
+   114:15:00: Balanced after 1 trials
+   
+   114:20:00: Balanced after 1 trials
+   
+   114:25:00: Balanced after 1 trials
+   
+   114:30:00: Balanced after 1 trials
+   
+   114:35:00: Balanced after 1 trials
+   
+   114:40:00: Balanced after 1 trials
+   
+   114:45:00: Balanced after 1 trials
+   
+   114:50:00: Balanced after 1 trials
+   
+   114:55:00: Balanced after 1 trials
+   
+   115:00:00: Balanced after 1 trials
+   
+   115:05:00: Balanced after 1 trials
+   
+   115:10:00: Balanced after 1 trials
+   
+   115:15:00: Balanced after 1 trials
+   
+   115:20:00: Balanced after 1 trials
+   
+   115:25:00: Balanced after 1 trials
+   
+   115:30:00: Balanced after 1 trials
+   
+   115:35:00: Balanced after 1 trials
+   
+   115:40:00: Balanced after 1 trials
+   
+   115:45:00: Balanced after 1 trials
+   
+   115:50:00: Balanced after 1 trials
+   
+   115:55:00: Balanced after 1 trials
+   
+   116:00:00: Balanced after 2 trials
+   
+   116:05:00: Balanced after 1 trials
+   
+   116:10:00: Balanced after 1 trials
+   
+   116:15:00: Balanced after 1 trials
+   
+   116:20:00: Balanced after 1 trials
+   
+   116:25:00: Balanced after 1 trials
+   
+   116:30:00: Balanced after 1 trials
+   
+   116:35:00: Balanced after 1 trials
+   
+   116:40:00: Balanced after 1 trials
+   
+   116:45:00: Balanced after 1 trials
+   
+   116:50:00: Balanced after 1 trials
+   
+   116:55:00: Balanced after 1 trials
+   
+   117:00:00: Balanced after 1 trials
+   
+   117:05:00: Balanced after 1 trials
+   
+   117:10:00: Balanced after 1 trials
+   
+   117:15:00: Balanced after 1 trials
+   
+   117:20:00: Balanced after 1 trials
+   
+   117:25:00: Balanced after 1 trials
+   
+   117:30:00: Balanced after 1 trials
+   
+   117:35:00: Balanced after 1 trials
+   
+   117:40:00: Balanced after 1 trials
+   
+   117:45:00: Balanced after 1 trials
+   
+   117:50:00: Balanced after 1 trials
+   
+   117:55:00: Balanced after 1 trials
+   
+   118:00:00: Balanced after 2 trials
+   
+   118:05:00: Balanced after 1 trials
+   
+   118:10:00: Balanced after 1 trials
+   
+   118:15:00: Balanced after 1 trials
+   
+   118:20:00: Balanced after 1 trials
+   
+   118:25:00: Balanced after 1 trials
+   
+   118:30:00: Balanced after 1 trials
+   
+   118:35:00: Balanced after 1 trials
+   
+   118:40:00: Balanced after 1 trials
+   
+   118:45:00: Balanced after 1 trials
+   
+   118:50:00: Balanced after 1 trials
+   
+   118:55:00: Balanced after 1 trials
+   
+   119:00:00: Balanced after 1 trials
+   
+   119:05:00: Balanced after 1 trials
+   
+   119:10:00: Balanced after 1 trials
+   
+   119:15:00: Balanced after 1 trials
+   
+   119:20:00: Balanced after 1 trials
+   
+   119:25:00: Balanced after 1 trials
+   
+   119:30:00: Balanced after 1 trials
+   
+   119:35:00: Balanced after 1 trials
+   
+   119:40:00: Balanced after 1 trials
+   
+   119:45:00: Balanced after 1 trials
+   
+   119:50:00: Balanced after 1 trials
+   
+   119:55:00: Balanced after 1 trials
+   
+   120:00:00: Balanced after 2 trials
+   
+   120:05:00: Balanced after 1 trials
+   
+   120:10:00: Balanced after 1 trials
+   
+   120:15:00: Balanced after 1 trials
+   
+   120:20:00: Balanced after 1 trials
+   
+   120:25:00: Balanced after 1 trials
+   
+   120:30:00: Balanced after 1 trials
+   
+   120:35:00: Balanced after 1 trials
+   
+   120:40:00: Balanced after 1 trials
+   
+   120:45:00: Balanced after 1 trials
+   
+   120:50:00: Balanced after 1 trials
+   
+   120:55:00: Balanced after 1 trials
+   
+   121:00:00: Balanced after 1 trials
+   
+   121:05:00: Balanced after 1 trials
+   
+   121:10:00: Balanced after 1 trials
+   
+   121:15:00: Balanced after 1 trials
+   
+   121:20:00: Balanced after 1 trials
+   
+   121:25:00: Balanced after 1 trials
+   
+   121:30:00: Balanced after 1 trials
+   
+   121:35:00: Balanced after 1 trials
+   
+   121:40:00: Balanced after 1 trials
+   
+   121:45:00: Balanced after 1 trials
+   
+   121:50:00: Balanced after 1 trials
+   
+   121:55:00: Balanced after 1 trials
+   
+   122:00:00: Balanced after 2 trials
+   
+   122:05:00: Balanced after 1 trials
+   
+   122:10:00: Balanced after 1 trials
+   
+   122:10:27: Pump 9 changed by Tank 2 control
+   122:10:27: Balanced after 12 trials
+   122:10:27: Reservoir 9 is emptying
+   122:10:27: Tank 2 is filling at 110.00 ft
+   122:10:27: Pump 9 changed from closed to open
+   
+   122:15:00: Balanced after 1 trials
+   
+   122:20:00: Balanced after 1 trials
+   
+   122:25:00: Balanced after 1 trials
+   
+   122:30:00: Balanced after 1 trials
+   
+   122:35:00: Balanced after 1 trials
+   
+   122:40:00: Balanced after 1 trials
+   
+   122:45:00: Balanced after 1 trials
+   
+   122:50:00: Balanced after 1 trials
+   
+   122:55:00: Balanced after 1 trials
+   
+   123:00:00: Balanced after 1 trials
+   
+   123:05:00: Balanced after 1 trials
+   
+   123:10:00: Balanced after 1 trials
+   
+   123:15:00: Balanced after 1 trials
+   
+   123:20:00: Balanced after 1 trials
+   
+   123:25:00: Balanced after 1 trials
+   
+   123:30:00: Balanced after 1 trials
+   
+   123:35:00: Balanced after 1 trials
+   
+   123:40:00: Balanced after 1 trials
+   
+   123:45:00: Balanced after 1 trials
+   
+   123:50:00: Balanced after 1 trials
+   
+   123:55:00: Balanced after 1 trials
+   
+   124:00:00: Balanced after 2 trials
+   
+   124:05:00: Balanced after 1 trials
+   
+   124:10:00: Balanced after 1 trials
+   
+   124:15:00: Balanced after 1 trials
+   
+   124:20:00: Balanced after 1 trials
+   
+   124:25:00: Balanced after 1 trials
+   
+   124:30:00: Balanced after 1 trials
+   
+   124:35:00: Balanced after 1 trials
+   
+   124:40:00: Balanced after 1 trials
+   
+   124:45:00: Balanced after 1 trials
+   
+   124:50:00: Balanced after 1 trials
+   
+   124:55:00: Balanced after 1 trials
+   
+   125:00:00: Balanced after 1 trials
+   
+   125:05:00: Balanced after 1 trials
+   
+   125:10:00: Balanced after 1 trials
+   
+   125:15:00: Balanced after 1 trials
+   
+   125:20:00: Balanced after 1 trials
+   
+   125:25:00: Balanced after 1 trials
+   
+   125:30:00: Balanced after 1 trials
+   
+   125:35:00: Balanced after 1 trials
+   
+   125:40:00: Balanced after 1 trials
+   
+   125:45:00: Balanced after 1 trials
+   
+   125:50:00: Balanced after 1 trials
+   
+   125:55:00: Balanced after 1 trials
+   
+   126:00:00: Balanced after 2 trials
+   
+   126:05:00: Balanced after 1 trials
+   
+   126:10:00: Balanced after 1 trials
+   
+   126:15:00: Balanced after 1 trials
+   
+   126:20:00: Balanced after 1 trials
+   
+   126:25:00: Balanced after 1 trials
+   
+   126:30:00: Balanced after 1 trials
+   
+   126:35:00: Balanced after 1 trials
+   
+   126:40:00: Balanced after 1 trials
+   
+   126:45:00: Balanced after 1 trials
+   
+   126:50:00: Balanced after 1 trials
+   
+   126:55:00: Balanced after 1 trials
+   
+   127:00:00: Balanced after 1 trials
+   
+   127:05:00: Balanced after 1 trials
+   
+   127:10:00: Balanced after 1 trials
+   
+   127:15:00: Balanced after 1 trials
+   
+   127:20:00: Balanced after 1 trials
+   
+   127:25:00: Balanced after 1 trials
+   
+   127:30:00: Balanced after 1 trials
+   
+   127:35:00: Balanced after 1 trials
+   
+   127:40:00: Balanced after 1 trials
+   
+   127:45:00: Balanced after 1 trials
+   
+   127:50:00: Balanced after 1 trials
+   
+   127:55:00: Balanced after 1 trials
+   
+   128:00:00: Balanced after 2 trials
+   
+   128:05:00: Balanced after 1 trials
+   
+   128:10:00: Balanced after 1 trials
+   
+   128:15:00: Balanced after 1 trials
+   
+   128:20:00: Balanced after 1 trials
+   
+   128:25:00: Balanced after 1 trials
+   
+   128:30:00: Balanced after 1 trials
+   
+   128:35:00: Balanced after 1 trials
+   
+   128:40:00: Balanced after 1 trials
+   
+   128:45:00: Balanced after 1 trials
+   
+   128:50:00: Balanced after 1 trials
+   
+   128:55:00: Balanced after 1 trials
+   
+   129:00:00: Balanced after 1 trials
+   
+   129:05:00: Balanced after 1 trials
+   
+   129:10:00: Balanced after 1 trials
+   
+   129:15:00: Balanced after 1 trials
+   
+   129:20:00: Balanced after 1 trials
+   
+   129:25:00: Balanced after 1 trials
+   
+   129:30:00: Balanced after 1 trials
+   
+   129:35:00: Balanced after 1 trials
+   
+   129:40:00: Balanced after 1 trials
+   
+   129:45:00: Balanced after 1 trials
+   
+   129:50:00: Balanced after 1 trials
+   
+   129:55:00: Balanced after 1 trials
+   
+   130:00:00: Balanced after 2 trials
+   
+   130:05:00: Balanced after 1 trials
+   
+   130:10:00: Balanced after 1 trials
+   
+   130:15:00: Balanced after 1 trials
+   
+   130:20:00: Balanced after 1 trials
+   
+   130:25:00: Balanced after 1 trials
+   
+   130:30:00: Balanced after 1 trials
+   
+   130:35:00: Balanced after 1 trials
+   
+   130:40:00: Balanced after 1 trials
+   
+   130:45:00: Balanced after 1 trials
+   
+   130:50:00: Balanced after 1 trials
+   
+   130:55:00: Balanced after 1 trials
+   
+   131:00:00: Balanced after 1 trials
+   
+   131:05:00: Balanced after 1 trials
+   
+   131:10:00: Balanced after 1 trials
+   
+   131:15:00: Balanced after 1 trials
+   
+   131:20:00: Balanced after 1 trials
+   
+   131:25:00: Balanced after 1 trials
+   
+   131:30:00: Balanced after 1 trials
+   
+   131:35:00: Balanced after 1 trials
+   
+   131:40:00: Balanced after 1 trials
+   
+   131:45:00: Balanced after 1 trials
+   
+   131:50:00: Balanced after 1 trials
+   
+   131:55:00: Balanced after 1 trials
+   
+   132:00:00: Balanced after 2 trials
+   
+   132:05:00: Balanced after 1 trials
+   
+   132:10:00: Balanced after 1 trials
+   
+   132:15:00: Balanced after 1 trials
+   
+   132:20:00: Balanced after 1 trials
+   
+   132:25:00: Balanced after 1 trials
+   
+   132:30:00: Balanced after 1 trials
+   
+   132:35:00: Balanced after 1 trials
+   
+   132:40:00: Balanced after 1 trials
+   
+   132:45:00: Balanced after 1 trials
+   
+   132:50:00: Balanced after 1 trials
+   
+   132:55:00: Balanced after 1 trials
+   
+   133:00:00: Balanced after 1 trials
+   
+   133:05:00: Balanced after 1 trials
+   
+   133:10:00: Balanced after 1 trials
+   
+   133:15:00: Balanced after 1 trials
+   
+   133:20:00: Balanced after 1 trials
+   
+   133:25:00: Balanced after 1 trials
+   
+   133:30:00: Balanced after 1 trials
+   
+   133:35:00: Balanced after 1 trials
+   
+   133:40:00: Balanced after 1 trials
+   
+   133:45:00: Balanced after 1 trials
+   
+   133:50:00: Balanced after 1 trials
+   
+   133:55:00: Balanced after 1 trials
+   
+   134:00:00: Balanced after 3 trials
+   
+   134:05:00: Balanced after 2 trials
+   
+   134:10:00: Balanced after 2 trials
+   
+   134:15:00: Balanced after 2 trials
+   
+   134:20:00: Balanced after 2 trials
+   
+   134:25:00: Balanced after 2 trials
+   
+   134:30:00: Balanced after 2 trials
+   
+   134:35:00: Balanced after 2 trials
+   
+   134:40:00: Balanced after 2 trials
+   
+   134:45:00: Balanced after 2 trials
+   
+   134:50:00: Balanced after 2 trials
+   
+   134:55:00: Balanced after 2 trials
+   
+   135:00:00: Balanced after 2 trials
+   
+   135:05:00: Balanced after 2 trials
+   
+   135:10:00: Balanced after 2 trials
+   
+   135:15:00: Balanced after 2 trials
+   
+   135:20:00: Balanced after 2 trials
+   
+   135:25:00: Balanced after 2 trials
+   
+   135:30:00: Balanced after 2 trials
+   
+   135:35:00: Balanced after 2 trials
+   
+   135:40:00: Balanced after 2 trials
+   
+   135:45:00: Balanced after 2 trials
+   
+   135:50:00: Balanced after 2 trials
+   
+   135:55:00: Balanced after 2 trials
+   
+   136:00:00: Balanced after 3 trials
+   
+   136:05:00: Balanced after 2 trials
+   
+   136:10:00: Balanced after 2 trials
+   
+   136:15:00: Balanced after 2 trials
+   
+   136:20:00: Balanced after 2 trials
+   
+   136:23:31: Pump 9 changed by Tank 2 control
+   136:23:31: Balanced after 4 trials
+   136:23:31: Reservoir 9 is closed
+   136:23:31: Tank 2 is emptying at 140.00 ft
+   136:23:31: Pump 9 changed from open to closed
+   
+   136:25:00: Balanced after 1 trials
+   
+   136:30:00: Balanced after 1 trials
+   
+   136:35:00: Balanced after 1 trials
+   
+   136:40:00: Balanced after 1 trials
+   
+   136:45:00: Balanced after 1 trials
+   
+   136:50:00: Balanced after 1 trials
+   
+   136:55:00: Balanced after 1 trials
+   
+   137:00:00: Balanced after 1 trials
+   
+   137:05:00: Balanced after 1 trials
+   
+   137:10:00: Balanced after 1 trials
+   
+   137:15:00: Balanced after 1 trials
+   
+   137:20:00: Balanced after 1 trials
+   
+   137:25:00: Balanced after 1 trials
+   
+   137:30:00: Balanced after 1 trials
+   
+   137:35:00: Balanced after 1 trials
+   
+   137:40:00: Balanced after 1 trials
+   
+   137:45:00: Balanced after 1 trials
+   
+   137:50:00: Balanced after 1 trials
+   
+   137:55:00: Balanced after 1 trials
+   
+   138:00:00: Balanced after 2 trials
+   
+   138:05:00: Balanced after 1 trials
+   
+   138:10:00: Balanced after 1 trials
+   
+   138:15:00: Balanced after 1 trials
+   
+   138:20:00: Balanced after 1 trials
+   
+   138:25:00: Balanced after 1 trials
+   
+   138:30:00: Balanced after 1 trials
+   
+   138:35:00: Balanced after 1 trials
+   
+   138:40:00: Balanced after 1 trials
+   
+   138:45:00: Balanced after 1 trials
+   
+   138:50:00: Balanced after 1 trials
+   
+   138:55:00: Balanced after 1 trials
+   
+   139:00:00: Balanced after 1 trials
+   
+   139:05:00: Balanced after 1 trials
+   
+   139:10:00: Balanced after 1 trials
+   
+   139:15:00: Balanced after 1 trials
+   
+   139:20:00: Balanced after 1 trials
+   
+   139:25:00: Balanced after 1 trials
+   
+   139:30:00: Balanced after 1 trials
+   
+   139:35:00: Balanced after 1 trials
+   
+   139:40:00: Balanced after 1 trials
+   
+   139:45:00: Balanced after 1 trials
+   
+   139:50:00: Balanced after 1 trials
+   
+   139:55:00: Balanced after 1 trials
+   
+   140:00:00: Balanced after 2 trials
+   
+   140:05:00: Balanced after 1 trials
+   
+   140:10:00: Balanced after 1 trials
+   
+   140:15:00: Balanced after 1 trials
+   
+   140:20:00: Balanced after 1 trials
+   
+   140:25:00: Balanced after 1 trials
+   
+   140:30:00: Balanced after 1 trials
+   
+   140:35:00: Balanced after 1 trials
+   
+   140:40:00: Balanced after 1 trials
+   
+   140:45:00: Balanced after 1 trials
+   
+   140:50:00: Balanced after 1 trials
+   
+   140:55:00: Balanced after 1 trials
+   
+   141:00:00: Balanced after 1 trials
+   
+   141:05:00: Balanced after 1 trials
+   
+   141:10:00: Balanced after 1 trials
+   
+   141:15:00: Balanced after 1 trials
+   
+   141:20:00: Balanced after 1 trials
+   
+   141:25:00: Balanced after 1 trials
+   
+   141:30:00: Balanced after 1 trials
+   
+   141:35:00: Balanced after 1 trials
+   
+   141:40:00: Balanced after 1 trials
+   
+   141:45:00: Balanced after 1 trials
+   
+   141:50:00: Balanced after 1 trials
+   
+   141:55:00: Balanced after 1 trials
+   
+   142:00:00: Balanced after 2 trials
+   
+   142:05:00: Balanced after 1 trials
+   
+   142:10:00: Balanced after 1 trials
+   
+   142:15:00: Balanced after 1 trials
+   
+   142:20:00: Balanced after 1 trials
+   
+   142:25:00: Balanced after 1 trials
+   
+   142:30:00: Balanced after 1 trials
+   
+   142:35:00: Balanced after 1 trials
+   
+   142:40:00: Balanced after 1 trials
+   
+   142:45:00: Balanced after 1 trials
+   
+   142:50:00: Balanced after 1 trials
+   
+   142:55:00: Balanced after 1 trials
+   
+   143:00:00: Balanced after 1 trials
+   
+   143:05:00: Balanced after 1 trials
+   
+   143:10:00: Balanced after 1 trials
+   
+   143:15:00: Balanced after 1 trials
+   
+   143:20:00: Balanced after 1 trials
+   
+   143:25:00: Balanced after 1 trials
+   
+   143:30:00: Balanced after 1 trials
+   
+   143:35:00: Balanced after 1 trials
+   
+   143:40:00: Balanced after 1 trials
+   
+   143:45:00: Balanced after 1 trials
+   
+   143:50:00: Balanced after 1 trials
+   
+   143:55:00: Balanced after 1 trials
+   
+   144:00:00: Balanced after 2 trials
+   
+   144:05:00: Balanced after 1 trials
+   
+   144:10:00: Balanced after 1 trials
+   
+   144:15:00: Balanced after 1 trials
+   
+   144:20:00: Balanced after 1 trials
+   
+   144:25:00: Balanced after 1 trials
+   
+   144:30:00: Balanced after 1 trials
+   
+   144:35:00: Balanced after 1 trials
+   
+   144:40:00: Balanced after 1 trials
+   
+   144:45:00: Balanced after 1 trials
+   
+   144:50:00: Balanced after 1 trials
+   
+   144:55:00: Balanced after 1 trials
+   
+   145:00:00: Balanced after 1 trials
+   
+   145:05:00: Balanced after 1 trials
+   
+   145:10:00: Balanced after 1 trials
+   
+   145:15:00: Balanced after 1 trials
+   
+   145:20:00: Balanced after 1 trials
+   
+   145:25:00: Balanced after 1 trials
+   
+   145:30:00: Balanced after 1 trials
+   
+   145:35:00: Balanced after 1 trials
+   
+   145:40:00: Balanced after 1 trials
+   
+   145:45:00: Balanced after 1 trials
+   
+   145:50:00: Balanced after 1 trials
+   
+   145:55:00: Balanced after 1 trials
+   
+   146:00:00: Balanced after 2 trials
+   
+   146:05:00: Balanced after 1 trials
+   
+   146:10:00: Balanced after 1 trials
+   
+   146:12:17: Pump 9 changed by Tank 2 control
+   146:12:17: Balanced after 12 trials
+   146:12:17: Reservoir 9 is emptying
+   146:12:17: Tank 2 is filling at 110.00 ft
+   146:12:17: Pump 9 changed from closed to open
+   
+   146:15:00: Balanced after 1 trials
+   
+   146:20:00: Balanced after 1 trials
+   
+   146:25:00: Balanced after 1 trials
+   
+   146:30:00: Balanced after 1 trials
+   
+   146:35:00: Balanced after 1 trials
+   
+   146:40:00: Balanced after 1 trials
+   
+   146:45:00: Balanced after 1 trials
+   
+   146:50:00: Balanced after 1 trials
+   
+   146:55:00: Balanced after 1 trials
+   
+   147:00:00: Balanced after 1 trials
+   
+   147:05:00: Balanced after 1 trials
+   
+   147:10:00: Balanced after 1 trials
+   
+   147:15:00: Balanced after 1 trials
+   
+   147:20:00: Balanced after 1 trials
+   
+   147:25:00: Balanced after 1 trials
+   
+   147:30:00: Balanced after 1 trials
+   
+   147:35:00: Balanced after 1 trials
+   
+   147:40:00: Balanced after 1 trials
+   
+   147:45:00: Balanced after 1 trials
+   
+   147:50:00: Balanced after 1 trials
+   
+   147:55:00: Balanced after 1 trials
+   
+   148:00:00: Balanced after 2 trials
+   
+   148:05:00: Balanced after 1 trials
+   
+   148:10:00: Balanced after 1 trials
+   
+   148:15:00: Balanced after 1 trials
+   
+   148:20:00: Balanced after 1 trials
+   
+   148:25:00: Balanced after 1 trials
+   
+   148:30:00: Balanced after 1 trials
+   
+   148:35:00: Balanced after 1 trials
+   
+   148:40:00: Balanced after 1 trials
+   
+   148:45:00: Balanced after 1 trials
+   
+   148:50:00: Balanced after 1 trials
+   
+   148:55:00: Balanced after 1 trials
+   
+   149:00:00: Balanced after 1 trials
+   
+   149:05:00: Balanced after 1 trials
+   
+   149:10:00: Balanced after 1 trials
+   
+   149:15:00: Balanced after 1 trials
+   
+   149:20:00: Balanced after 1 trials
+   
+   149:25:00: Balanced after 1 trials
+   
+   149:30:00: Balanced after 1 trials
+   
+   149:35:00: Balanced after 1 trials
+   
+   149:40:00: Balanced after 1 trials
+   
+   149:45:00: Balanced after 1 trials
+   
+   149:50:00: Balanced after 1 trials
+   
+   149:55:00: Balanced after 1 trials
+   
+   150:00:00: Balanced after 2 trials
+   
+   150:05:00: Balanced after 1 trials
+   
+   150:10:00: Balanced after 1 trials
+   
+   150:15:00: Balanced after 1 trials
+   
+   150:20:00: Balanced after 1 trials
+   
+   150:25:00: Balanced after 1 trials
+   
+   150:30:00: Balanced after 1 trials
+   
+   150:35:00: Balanced after 1 trials
+   
+   150:40:00: Balanced after 1 trials
+   
+   150:45:00: Balanced after 1 trials
+   
+   150:50:00: Balanced after 1 trials
+   
+   150:55:00: Balanced after 1 trials
+   
+   151:00:00: Balanced after 1 trials
+   
+   151:05:00: Balanced after 1 trials
+   
+   151:10:00: Balanced after 1 trials
+   
+   151:15:00: Balanced after 1 trials
+   
+   151:20:00: Balanced after 1 trials
+   
+   151:25:00: Balanced after 1 trials
+   
+   151:30:00: Balanced after 1 trials
+   
+   151:35:00: Balanced after 1 trials
+   
+   151:40:00: Balanced after 1 trials
+   
+   151:45:00: Balanced after 1 trials
+   
+   151:50:00: Balanced after 1 trials
+   
+   151:55:00: Balanced after 1 trials
+   
+   152:00:00: Balanced after 2 trials
+   
+   152:05:00: Balanced after 1 trials
+   
+   152:10:00: Balanced after 1 trials
+   
+   152:15:00: Balanced after 1 trials
+   
+   152:20:00: Balanced after 1 trials
+   
+   152:25:00: Balanced after 1 trials
+   
+   152:30:00: Balanced after 1 trials
+   
+   152:35:00: Balanced after 1 trials
+   
+   152:40:00: Balanced after 1 trials
+   
+   152:45:00: Balanced after 1 trials
+   
+   152:50:00: Balanced after 1 trials
+   
+   152:55:00: Balanced after 1 trials
+   
+   153:00:00: Balanced after 1 trials
+   
+   153:05:00: Balanced after 1 trials
+   
+   153:10:00: Balanced after 1 trials
+   
+   153:15:00: Balanced after 1 trials
+   
+   153:20:00: Balanced after 1 trials
+   
+   153:25:00: Balanced after 1 trials
+   
+   153:30:00: Balanced after 1 trials
+   
+   153:35:00: Balanced after 1 trials
+   
+   153:40:00: Balanced after 1 trials
+   
+   153:45:00: Balanced after 1 trials
+   
+   153:50:00: Balanced after 1 trials
+   
+   153:55:00: Balanced after 1 trials
+   
+   154:00:00: Balanced after 2 trials
+   
+   154:05:00: Balanced after 1 trials
+   
+   154:10:00: Balanced after 1 trials
+   
+   154:15:00: Balanced after 1 trials
+   
+   154:20:00: Balanced after 1 trials
+   
+   154:25:00: Balanced after 1 trials
+   
+   154:30:00: Balanced after 1 trials
+   
+   154:35:00: Balanced after 1 trials
+   
+   154:40:00: Balanced after 1 trials
+   
+   154:45:00: Balanced after 1 trials
+   
+   154:50:00: Balanced after 1 trials
+   
+   154:55:00: Balanced after 1 trials
+   
+   155:00:00: Balanced after 1 trials
+   
+   155:05:00: Balanced after 1 trials
+   
+   155:10:00: Balanced after 1 trials
+   
+   155:15:00: Balanced after 1 trials
+   
+   155:20:00: Balanced after 1 trials
+   
+   155:25:00: Balanced after 1 trials
+   
+   155:30:00: Balanced after 1 trials
+   
+   155:35:00: Balanced after 1 trials
+   
+   155:40:00: Balanced after 1 trials
+   
+   155:45:00: Balanced after 1 trials
+   
+   155:50:00: Balanced after 1 trials
+   
+   155:55:00: Balanced after 1 trials
+   
+   156:00:00: Balanced after 2 trials
+   
+   156:05:00: Balanced after 1 trials
+   
+   156:10:00: Balanced after 1 trials
+   
+   156:15:00: Balanced after 1 trials
+   
+   156:20:00: Balanced after 1 trials
+   
+   156:25:00: Balanced after 1 trials
+   
+   156:30:00: Balanced after 1 trials
+   
+   156:35:00: Balanced after 1 trials
+   
+   156:40:00: Balanced after 1 trials
+   
+   156:45:00: Balanced after 1 trials
+   
+   156:50:00: Balanced after 1 trials
+   
+   156:55:00: Balanced after 1 trials
+   
+   157:00:00: Balanced after 1 trials
+   
+   157:05:00: Balanced after 1 trials
+   
+   157:10:00: Balanced after 1 trials
+   
+   157:15:00: Balanced after 1 trials
+   
+   157:20:00: Balanced after 1 trials
+   
+   157:25:00: Balanced after 1 trials
+   
+   157:30:00: Balanced after 1 trials
+   
+   157:35:00: Balanced after 1 trials
+   
+   157:40:00: Balanced after 1 trials
+   
+   157:45:00: Balanced after 1 trials
+   
+   157:50:00: Balanced after 1 trials
+   
+   157:55:00: Balanced after 1 trials
+   
+   158:00:00: Balanced after 3 trials
+   
+   158:05:00: Balanced after 2 trials
+   
+   158:10:00: Balanced after 2 trials
+   
+   158:15:00: Balanced after 2 trials
+   
+   158:20:00: Balanced after 2 trials
+   
+   158:25:00: Balanced after 2 trials
+   
+   158:30:00: Balanced after 2 trials
+   
+   158:35:00: Balanced after 2 trials
+   
+   158:40:00: Balanced after 2 trials
+   
+   158:45:00: Balanced after 2 trials
+   
+   158:50:00: Balanced after 2 trials
+   
+   158:55:00: Balanced after 2 trials
+   
+   159:00:00: Balanced after 2 trials
+   
+   159:05:00: Balanced after 2 trials
+   
+   159:10:00: Balanced after 2 trials
+   
+   159:15:00: Balanced after 2 trials
+   
+   159:20:00: Balanced after 2 trials
+   
+   159:25:00: Balanced after 2 trials
+   
+   159:30:00: Balanced after 2 trials
+   
+   159:35:00: Balanced after 2 trials
+   
+   159:40:00: Balanced after 2 trials
+   
+   159:45:00: Balanced after 2 trials
+   
+   159:50:00: Balanced after 2 trials
+   
+   159:55:00: Balanced after 2 trials
+   
+   160:00:00: Balanced after 3 trials
+   
+   160:05:00: Balanced after 2 trials
+   
+   160:10:00: Balanced after 2 trials
+   
+   160:15:00: Balanced after 2 trials
+   
+   160:20:00: Balanced after 2 trials
+   
+   160:24:16: Pump 9 changed by Tank 2 control
+   160:24:16: Balanced after 4 trials
+   160:24:16: Reservoir 9 is closed
+   160:24:16: Tank 2 is emptying at 140.00 ft
+   160:24:16: Pump 9 changed from open to closed
+   
+   160:25:00: Balanced after 1 trials
+   
+   160:30:00: Balanced after 1 trials
+   
+   160:35:00: Balanced after 1 trials
+   
+   160:40:00: Balanced after 1 trials
+   
+   160:45:00: Balanced after 1 trials
+   
+   160:50:00: Balanced after 1 trials
+   
+   160:55:00: Balanced after 1 trials
+   
+   161:00:00: Balanced after 1 trials
+   
+   161:05:00: Balanced after 1 trials
+   
+   161:10:00: Balanced after 1 trials
+   
+   161:15:00: Balanced after 1 trials
+   
+   161:20:00: Balanced after 1 trials
+   
+   161:25:00: Balanced after 1 trials
+   
+   161:30:00: Balanced after 1 trials
+   
+   161:35:00: Balanced after 1 trials
+   
+   161:40:00: Balanced after 1 trials
+   
+   161:45:00: Balanced after 1 trials
+   
+   161:50:00: Balanced after 1 trials
+   
+   161:55:00: Balanced after 1 trials
+   
+   162:00:00: Balanced after 2 trials
+   
+   162:05:00: Balanced after 1 trials
+   
+   162:10:00: Balanced after 1 trials
+   
+   162:15:00: Balanced after 1 trials
+   
+   162:20:00: Balanced after 1 trials
+   
+   162:25:00: Balanced after 1 trials
+   
+   162:30:00: Balanced after 1 trials
+   
+   162:35:00: Balanced after 1 trials
+   
+   162:40:00: Balanced after 1 trials
+   
+   162:45:00: Balanced after 1 trials
+   
+   162:50:00: Balanced after 1 trials
+   
+   162:55:00: Balanced after 1 trials
+   
+   163:00:00: Balanced after 1 trials
+   
+   163:05:00: Balanced after 1 trials
+   
+   163:10:00: Balanced after 1 trials
+   
+   163:15:00: Balanced after 1 trials
+   
+   163:20:00: Balanced after 1 trials
+   
+   163:25:00: Balanced after 1 trials
+   
+   163:30:00: Balanced after 1 trials
+   
+   163:35:00: Balanced after 1 trials
+   
+   163:40:00: Balanced after 1 trials
+   
+   163:45:00: Balanced after 1 trials
+   
+   163:50:00: Balanced after 1 trials
+   
+   163:55:00: Balanced after 1 trials
+   
+   164:00:00: Balanced after 2 trials
+   
+   164:05:00: Balanced after 1 trials
+   
+   164:10:00: Balanced after 1 trials
+   
+   164:15:00: Balanced after 1 trials
+   
+   164:20:00: Balanced after 1 trials
+   
+   164:25:00: Balanced after 1 trials
+   
+   164:30:00: Balanced after 1 trials
+   
+   164:35:00: Balanced after 1 trials
+   
+   164:40:00: Balanced after 1 trials
+   
+   164:45:00: Balanced after 1 trials
+   
+   164:50:00: Balanced after 1 trials
+   
+   164:55:00: Balanced after 1 trials
+   
+   165:00:00: Balanced after 1 trials
+   
+   165:05:00: Balanced after 1 trials
+   
+   165:10:00: Balanced after 1 trials
+   
+   165:15:00: Balanced after 1 trials
+   
+   165:20:00: Balanced after 1 trials
+   
+   165:25:00: Balanced after 1 trials
+   
+   165:30:00: Balanced after 1 trials
+   
+   165:35:00: Balanced after 1 trials
+   
+   165:40:00: Balanced after 1 trials
+   
+   165:45:00: Balanced after 1 trials
+   
+   165:50:00: Balanced after 1 trials
+   
+   165:55:00: Balanced after 1 trials
+   
+   166:00:00: Balanced after 2 trials
+   
+   166:05:00: Balanced after 1 trials
+   
+   166:10:00: Balanced after 1 trials
+   
+   166:15:00: Balanced after 1 trials
+   
+   166:20:00: Balanced after 1 trials
+   
+   166:25:00: Balanced after 1 trials
+   
+   166:30:00: Balanced after 1 trials
+   
+   166:35:00: Balanced after 1 trials
+   
+   166:40:00: Balanced after 1 trials
+   
+   166:45:00: Balanced after 1 trials
+   
+   166:50:00: Balanced after 1 trials
+   
+   166:55:00: Balanced after 1 trials
+   
+   167:00:00: Balanced after 1 trials
+   
+   167:05:00: Balanced after 1 trials
+   
+   167:10:00: Balanced after 1 trials
+   
+   167:15:00: Balanced after 1 trials
+   
+   167:20:00: Balanced after 1 trials
+   
+   167:25:00: Balanced after 1 trials
+   
+   167:30:00: Balanced after 1 trials
+   
+   167:35:00: Balanced after 1 trials
+   
+   167:40:00: Balanced after 1 trials
+   
+   167:45:00: Balanced after 1 trials
+   
+   167:50:00: Balanced after 1 trials
+   
+   167:55:00: Balanced after 1 trials
+   
+   168:00:00: Balanced after 2 trials
+   
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      7.47582e+006
+  Mass Inflow:       4.19690e+007
+  Mass Outflow:      0.00000e+000
+  Mass Reacted:      4.94448e+007
+  Final Mass:        0.00000e+000
+  Mass Ratio:         1.00000
+  ================================
+
+  Analysis ended Sat Sep 19 21:04:25 2026
